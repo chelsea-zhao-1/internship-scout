@@ -1,0 +1,6 @@
+sources:
+  - name: coinbase
+    display_name: Coinbase
+    ats: greenhouse
+    boards:
+      - coinbase
