@@ -1,6 +1,9 @@
 import sys
 import yaml
+from pathlib import Path
 from datetime import datetime, timezone
+
+PROJECT_ROOT = Path(__file__).parent
 
 from adapters.greenhouse import fetch_all_for_source
 from pipeline.filter import filter_jobs
@@ -76,7 +79,7 @@ def _send_error_email(display_name: str, error: str, timestamp: str) -> None:
 
 
 def main() -> int:
-    with open("sources.yaml") as f:
+    with open(PROJECT_ROOT / "sources.yaml") as f:
         config = yaml.safe_load(f)
 
     state, is_cold_start = load_state()

@@ -29,7 +29,7 @@ def _normalize(raw_job: dict, source_name: str) -> dict:
     return {
         "id": str(raw_job["id"]),
         "title": raw_job["title"],
-        "location": raw_job.get("location", {}).get("name", "Unknown"),
+        "location": (raw_job.get("location") or {}).get("name", "Unknown"),
         "url": raw_job["absolute_url"],
         "updated_at": raw_job["updated_at"],
         "source": source_name,
