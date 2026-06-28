@@ -15,6 +15,15 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 # Fixtures / helpers
 # ---------------------------------------------------------------------------
 
+_SINGLE_SOURCE_YAML = (
+    "sources:\n"
+    "  - name: coinbase\n"
+    "    display_name: Coinbase\n"
+    "    ats: greenhouse\n"
+    "    boards:\n"
+    "      - coinbase\n"
+)
+
 INTERN_JOB_RAW = {
     "id": 1001,
     "title": "Software Engineering Intern",
@@ -266,6 +275,7 @@ class TestScenarioColdStart:
     @patch("adapters.greenhouse.requests.get")
     def test_bootstrap_email_sent_no_new_roles_email(self, mock_get, mock_send, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
+        (tmp_path / "sources.yaml").write_text(_SINGLE_SOURCE_YAML)
         monkeypatch.setenv("NOTIFY_EMAIL", "test@example.com")
         mock_get.return_value = _make_greenhouse_response([INTERN_JOB_RAW])
 
@@ -282,6 +292,7 @@ class TestScenarioColdStart:
     @patch("adapters.greenhouse.requests.get")
     def test_state_saved_after_bootstrap(self, mock_get, mock_send, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
+        (tmp_path / "sources.yaml").write_text(_SINGLE_SOURCE_YAML)
         monkeypatch.setenv("NOTIFY_EMAIL", "test@example.com")
         mock_get.return_value = _make_greenhouse_response([INTERN_JOB_RAW])
 
@@ -295,6 +306,7 @@ class TestScenarioColdStart:
     @patch("adapters.greenhouse.requests.get")
     def test_bootstrap_with_no_intern_roles(self, mock_get, mock_send, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
+        (tmp_path / "sources.yaml").write_text(_SINGLE_SOURCE_YAML)
         monkeypatch.setenv("NOTIFY_EMAIL", "test@example.com")
         mock_get.return_value = _make_greenhouse_response([NON_INTERN_JOB_RAW])
 
@@ -303,7 +315,7 @@ class TestScenarioColdStart:
 
         subject, body = mock_send.call_args[0]
         assert "initialized" in subject.lower()
-        assert "No intern" in body
+        assert "No open roles found" in body
 
 
 # ---------------------------------------------------------------------------
@@ -315,6 +327,7 @@ class TestScenarioNewRoles:
     @patch("adapters.greenhouse.requests.get")
     def test_new_role_email_sent(self, mock_get, mock_send, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
+        (tmp_path / "sources.yaml").write_text(_SINGLE_SOURCE_YAML)
         monkeypatch.setenv("NOTIFY_EMAIL", "test@example.com")
         # State has no previous intern roles
         (tmp_path / "state.json").write_text(json.dumps(_make_state({})))
@@ -334,6 +347,7 @@ class TestScenarioNewRoles:
     @patch("adapters.greenhouse.requests.get")
     def test_state_updated_after_new_role(self, mock_get, mock_send, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
+        (tmp_path / "sources.yaml").write_text(_SINGLE_SOURCE_YAML)
         monkeypatch.setenv("NOTIFY_EMAIL", "test@example.com")
         (tmp_path / "state.json").write_text(json.dumps(_make_state({})))
         mock_get.return_value = _make_greenhouse_response([INTERN_JOB_RAW])
@@ -354,6 +368,7 @@ class TestScenarioNoNewRoles:
     @patch("adapters.greenhouse.requests.get")
     def test_no_new_roles_email_sent(self, mock_get, mock_send, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
+        (tmp_path / "sources.yaml").write_text(_SINGLE_SOURCE_YAML)
         monkeypatch.setenv("NOTIFY_EMAIL", "test@example.com")
         existing = {"1001": {"title": "Software Engineering Intern", "location": "Remote - USA",
                               "url": "x", "updated_at": "x", "first_seen": "x"}}
@@ -372,6 +387,7 @@ class TestScenarioNoNewRoles:
     @patch("adapters.greenhouse.requests.get")
     def test_first_seen_preserved_on_no_new_roles(self, mock_get, mock_send, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
+        (tmp_path / "sources.yaml").write_text(_SINGLE_SOURCE_YAML)
         monkeypatch.setenv("NOTIFY_EMAIL", "test@example.com")
         existing = {"1001": {"title": "x", "location": "x", "url": "x",
                               "updated_at": "x", "first_seen": "2026-06-01T00:00:00Z"}}
@@ -394,6 +410,7 @@ class TestScenarioFetchError:
     @patch("adapters.greenhouse.requests.get")
     def test_error_email_sent_on_fetch_failure(self, mock_get, mock_send, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
+        (tmp_path / "sources.yaml").write_text(_SINGLE_SOURCE_YAML)
         monkeypatch.setenv("NOTIFY_EMAIL", "test@example.com")
         existing = {"1001": {"title": "x", "location": "x", "url": "x",
                               "updated_at": "x", "first_seen": "x"}}
@@ -412,6 +429,7 @@ class TestScenarioFetchError:
     @patch("adapters.greenhouse.requests.get")
     def test_state_not_updated_on_fetch_error(self, mock_get, mock_send, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
+        (tmp_path / "sources.yaml").write_text(_SINGLE_SOURCE_YAML)
         monkeypatch.setenv("NOTIFY_EMAIL", "test@example.com")
         original_state = _make_state({"1001": {"title": "x", "location": "x",
                                                 "url": "x", "updated_at": "x", "first_seen": "x"}})
@@ -435,6 +453,7 @@ class TestScenarioNotifyError:
     @patch("adapters.greenhouse.requests.get")
     def test_state_not_updated_when_email_fails(self, mock_get, mock_send, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
+        (tmp_path / "sources.yaml").write_text(_SINGLE_SOURCE_YAML)
         monkeypatch.setenv("NOTIFY_EMAIL", "test@example.com")
         # State is empty — new role would be detected, but email fails
         (tmp_path / "state.json").write_text(json.dumps(_make_state({})))
@@ -452,6 +471,7 @@ class TestScenarioNotifyError:
     @patch("adapters.greenhouse.requests.get")
     def test_new_role_redetected_on_retry_after_notify_failure(self, mock_get, mock_send, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
+        (tmp_path / "sources.yaml").write_text(_SINGLE_SOURCE_YAML)
         monkeypatch.setenv("NOTIFY_EMAIL", "test@example.com")
         (tmp_path / "state.json").write_text(json.dumps(_make_state({})))
         mock_get.return_value = _make_greenhouse_response([INTERN_JOB_RAW])
@@ -480,6 +500,7 @@ class TestScenarioCorruptedState:
     @patch("adapters.greenhouse.requests.get")
     def test_corrupted_state_triggers_bootstrap(self, mock_get, mock_send, tmp_path, monkeypatch):
         monkeypatch.chdir(tmp_path)
+        (tmp_path / "sources.yaml").write_text(_SINGLE_SOURCE_YAML)
         monkeypatch.setenv("NOTIFY_EMAIL", "test@example.com")
         (tmp_path / "state.json").write_text("{bad json{{")
         mock_get.return_value = _make_greenhouse_response([INTERN_JOB_RAW])

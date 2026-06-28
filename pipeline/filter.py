@@ -1,5 +1,5 @@
 def matches_criteria(job: dict) -> bool:
-    return True  # filter disabled for testing — re-enable intern keyword check before prod
+    return "intern" in job["title"].lower()
 
 
 def filter_jobs(jobs: list[dict]) -> list[dict]:
