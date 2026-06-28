@@ -1,6 +1,78 @@
 sources:
+  - name: anduril
+    display_name: Anduril
+    ats: greenhouse
+    boards:
+      - andurilindustries
+
+  - name: binance
+    display_name: Binance
+    ats: greenhouse
+    boards:
+      - binance
+
+  - name: cloudflare
+    display_name: Cloudflare
+    ats: greenhouse
+    boards:
+      - cloudflare
+
   - name: coinbase
     display_name: Coinbase
     ats: greenhouse
     boards:
       - coinbase
+
+  - name: disney
+    display_name: Disney
+    ats: greenhouse
+    boards:
+      - disney
+
+  - name: galaxy_digital
+    display_name: Galaxy Digital
+    ats: greenhouse
+    boards:
+      - galaxy
+
+  - name: jane_street
+    display_name: Jane Street
+    ats: greenhouse
+    boards:
+      - janestreet
+
+  - name: kalshi
+    display_name: Kalshi
+    ats: greenhouse
+    boards:
+      - kalshi
+
+  - name: ramp
+    display_name: Ramp
+    ats: greenhouse
+    boards:
+      - rampnetwork
+
+  - name: robinhood
+    display_name: Robinhood
+    ats: greenhouse
+    boards:
+      - robinhood
+
+  - name: securitize
+    display_name: Securitize
+    ats: greenhouse
+    boards:
+      - securitize
+
+  - name: stripe
+    display_name: Stripe
+    ats: greenhouse
+    boards:
+      - stripe
+
+  - name: worldquant
+    display_name: WorldQuant
+    ats: greenhouse
+    boards:
+      - worldquant

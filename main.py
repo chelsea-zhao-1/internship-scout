@@ -24,22 +24,26 @@ def _format_role(job: dict, index: int) -> str:
     return f"{index}. {job['title']}\n   📍 {job['location']}\n   🔗 {job['url']}"
 
 
-def _send_bootstrap_email(display_name: str, roles: list[dict], timestamp: str) -> None:
-    count = len(roles)
-    role_lines = "\n\n".join(_format_role(r, i + 1) for i, r in enumerate(roles))
+def _send_combined_bootstrap_email(sources_data: list[dict], timestamp: str) -> None:
+    """Send one bootstrap email summarizing all newly initialized sources."""
+    total_roles = sum(len(d["jobs"]) for d in sources_data)
+    sections = []
+    for d in sources_data:
+        name = d["display_name"]
+        roles = d["jobs"]
+        count = len(roles)
+        if count == 0:
+            sections.append(f"--- {name} ---\nNo open roles found.")
+        else:
+            role_lines = "\n\n".join(_format_role(r, i + 1) for i, r in enumerate(roles))
+            sections.append(f"--- {name} ({count} role(s)) ---\n\n{role_lines}")
     body = (
-        f"System initialized. Currently tracking {count} intern role(s) at {display_name}:\n\n"
-        f"{role_lines}\n\n"
-        f"---\n"
-        f"Initialized at {timestamp}. Future runs will notify you of new roles only."
+        f"System initialized for {len(sources_data)} source(s). "
+        f"Currently tracking {total_roles} total role(s):\n\n"
+        + "\n\n".join(sections)
+        + f"\n\n---\nInitialized at {timestamp}. Future runs will notify you of new roles only."
     )
-    if count == 0:
-        body = (
-            f"System initialized. No intern roles currently found at {display_name}.\n\n"
-            f"---\n"
-            f"Initialized at {timestamp}. Future runs will notify you of new roles."
-        )
-    send_email(f"🚀 Job monitor initialized — {display_name}", body)
+    send_email(f"🚀 Job monitor initialized — {len(sources_data)} source(s)", body)
 
 
 def _send_new_roles_email(display_name: str, new_roles: list[dict], timestamp: str) -> None:
@@ -89,6 +93,7 @@ def main() -> int:
         print("[main] Cold start detected — bootstrapping state.")
 
     overall_status = "success"
+    bootstrap_queue: list[dict] = []  # accumulates data for the single combined bootstrap email
 
     for source in config["sources"]:
         source_name = source["name"]
@@ -120,24 +125,17 @@ def main() -> int:
         intern_jobs = filter_jobs(all_jobs)
         print(f"[{source_name}] {len(intern_jobs)} intern role(s) after filtering.")
 
-        # Index by id for state storage
-        intern_by_id = {j["id"]: j for j in intern_jobs}
-
         existing_roles = (
             state.get("sources", {}).get(source_name, {}).get("roles", {})
         )
 
         if is_cold_start:
-            # --- Bootstrap ---
-            try:
-                _send_bootstrap_email(display_name, intern_jobs, timestamp)
-            except Exception as e:
-                print(f"[{source_name}] Failed to send bootstrap email: {e}")
-                overall_status = "notify_error"
-                # Don't save state — will retry on next run
-                continue
-
-            snapshot = build_roles_snapshot(intern_jobs, {}, timestamp)
+            # Collect — combined email sent after the loop
+            bootstrap_queue.append({
+                "source_name": source_name,
+                "display_name": display_name,
+                "jobs": intern_jobs,
+            })
         else:
             # --- Diff ---
             new_roles = compute_new_roles(intern_jobs, existing_roles)
@@ -157,13 +155,31 @@ def main() -> int:
 
             snapshot = build_roles_snapshot(intern_jobs, existing_roles, timestamp)
 
-        # --- Update state (only after confirmed email send) ---
-        if "sources" not in state:
-            state["sources"] = {}
-        state["sources"][source_name] = {
-            "last_checked": timestamp,
-            "roles": snapshot,
-        }
+            # --- Update state (only after confirmed email send) ---
+            if "sources" not in state:
+                state["sources"] = {}
+            state["sources"][source_name] = {
+                "last_checked": timestamp,
+                "roles": snapshot,
+            }
+
+    # --- Combined bootstrap email (one email for all new sources) ---
+    if bootstrap_queue:
+        try:
+            _send_combined_bootstrap_email(bootstrap_queue, timestamp)
+        except Exception as e:
+            print(f"[main] Failed to send combined bootstrap email: {e}")
+            overall_status = "notify_error"
+            # Don't save any bootstrap state — all sources will retry next run
+        else:
+            for item in bootstrap_queue:
+                snapshot = build_roles_snapshot(item["jobs"], {}, timestamp)
+                if "sources" not in state:
+                    state["sources"] = {}
+                state["sources"][item["source_name"]] = {
+                    "last_checked": timestamp,
+                    "roles": snapshot,
+                }
 
     state["last_status"] = overall_status
     save_state(state)
