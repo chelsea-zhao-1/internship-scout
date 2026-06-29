@@ -381,7 +381,7 @@ class TestScenarioNoNewRoles:
         assert exit_code == 0
         subject, body = mock_send.call_args[0]
         assert "✅" in subject
-        assert "No new intern" in body
+        assert "No new roles" in body
 
     @patch("main.send_email")
     @patch("adapters.greenhouse.requests.get")

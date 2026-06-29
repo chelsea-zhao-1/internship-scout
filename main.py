@@ -43,27 +43,33 @@ def _send_combined_bootstrap_email(sources_data: list[dict], timestamp: str) -> 
     send_email(f"🚀 Job monitor initialized — {len(sources_data)} source(s)", body)
 
 
-def _send_new_roles_email(display_name: str, new_roles: list[dict], timestamp: str) -> None:
-    count = len(new_roles)
+def _send_combined_update_email(updates: list[dict], timestamp: str) -> None:
+    """Send one email summarizing all sources checked this run."""
     date_str = timestamp[:10]
-    role_lines = "\n\n".join(_format_role(r, i + 1) for i, r in enumerate(new_roles))
-    body = (
-        f"{count} new intern role(s) detected at {display_name}:\n\n"
-        f"{role_lines}\n\n"
-        f"---\n"
-        f"Checked at {timestamp}. System status: healthy."
-    )
-    send_email(f"🆕 {count} new intern role(s) at {display_name} — {date_str}", body)
+    total_new = sum(len(u["new_roles"]) for u in updates)
+    companies_with_new = sum(1 for u in updates if u["new_roles"])
 
+    sections = []
+    for u in updates:
+        name = u["display_name"]
+        new_roles = u["new_roles"]
+        if new_roles:
+            count = len(new_roles)
+            role_lines = "\n\n".join(_format_role(r, i + 1) for i, r in enumerate(new_roles))
+            sections.append(f"--- {name} ({count} new role(s)) ---\n\n{role_lines}")
+        else:
+            sections.append(f"--- {name} ---\nNo new roles.")
 
-def _send_no_new_roles_email(display_name: str, timestamp: str) -> None:
-    date_str = timestamp[:10]
+    if total_new:
+        subject = f"🆕 {total_new} new intern role(s) at {companies_with_new} company/companies — {date_str}"
+    else:
+        subject = f"✅ No new intern roles today — {date_str}"
+
     body = (
-        f"No new intern roles detected at {display_name} today.\n\n"
-        f"---\n"
-        f"Checked at {timestamp}. System status: healthy."
+        "\n\n".join(sections)
+        + f"\n\n---\nChecked at {timestamp}. System status: healthy."
     )
-    send_email(f"✅ No new intern roles at {display_name} — {date_str}", body)
+    send_email(subject, body)
 
 
 def _send_error_email(display_name: str, error: str, timestamp: str) -> None:
@@ -91,6 +97,7 @@ def main() -> int:
 
     overall_status = "success"
     bootstrap_queue: list[dict] = []  # accumulates data for the single combined bootstrap email
+    notify_queue: list[dict] = []     # accumulates per-source diffs for the single combined update email
 
     for source in config["sources"]:
         source_name = source["name"]
@@ -138,27 +145,32 @@ def main() -> int:
             new_roles = compute_new_roles(intern_jobs, existing_roles)
             print(f"[{source_name}] {len(new_roles)} new role(s) detected.")
 
-            # --- Notify (email must succeed before state update) ---
-            try:
-                if new_roles:
-                    _send_new_roles_email(display_name, new_roles, timestamp)
-                else:
-                    _send_no_new_roles_email(display_name, timestamp)
-            except Exception as e:
-                print(f"[{source_name}] Failed to send email: {e}")
-                overall_status = "notify_error"
-                # Critical: do NOT update state — roles will be re-detected next run
-                continue
+            # Collect — combined email sent after the loop
+            notify_queue.append({
+                "source_name": source_name,
+                "display_name": display_name,
+                "new_roles": new_roles,
+                "intern_jobs": intern_jobs,
+                "existing_roles": existing_roles,
+            })
 
-            snapshot = build_roles_snapshot(intern_jobs, existing_roles, timestamp)
-
-            # --- Update state (only after confirmed email send) ---
-            if "sources" not in state:
-                state["sources"] = {}
-            state["sources"][source_name] = {
-                "last_checked": timestamp,
-                "roles": snapshot,
-            }
+    # --- Combined update email (one email for all sources) ---
+    if notify_queue:
+        try:
+            _send_combined_update_email(notify_queue, timestamp)
+        except Exception as e:
+            print(f"[main] Failed to send combined update email: {e}")
+            overall_status = "notify_error"
+            # Critical: do NOT update state — all sources will re-detect next run
+        else:
+            for item in notify_queue:
+                snapshot = build_roles_snapshot(item["intern_jobs"], item["existing_roles"], timestamp)
+                if "sources" not in state:
+                    state["sources"] = {}
+                state["sources"][item["source_name"]] = {
+                    "last_checked": timestamp,
+                    "roles": snapshot,
+                }
 
     # --- Combined bootstrap email (one email for all new sources) ---
     if bootstrap_queue:

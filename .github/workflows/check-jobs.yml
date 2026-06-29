@@ -2,7 +2,7 @@ name: Check Internship Postings
 
 on:
   schedule:
-    - cron: '0 12 * * *'   # 12:00 UTC = ~8:00 AM ET
+    - cron: '0 13 * * *'   # 13:00 UTC = ~9:00 AM ET
   workflow_dispatch:         # Allow manual trigger for testing
 
 jobs:

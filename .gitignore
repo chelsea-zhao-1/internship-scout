@@ -7,3 +7,4 @@ __pycache__/
 .obsidian/
 .seen.json
 .pytest_cache/
+.claude/

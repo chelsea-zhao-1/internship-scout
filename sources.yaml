@@ -5,12 +5,6 @@ sources:
     boards:
       - andurilindustries
 
-  - name: binance
-    display_name: Binance
-    ats: greenhouse
-    boards:
-      - binance
-
   - name: cloudflare
     display_name: Cloudflare
     ats: greenhouse
