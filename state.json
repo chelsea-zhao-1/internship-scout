@@ -1,9 +1,9 @@
 {
-  "last_checked": "2026-07-01T15:37:30Z",
+  "last_checked": "2026-07-02T15:10:06Z",
   "last_status": "success",
   "sources": {
     "anduril": {
-      "last_checked": "2026-07-01T15:37:11Z",
+      "last_checked": "2026-07-02T15:10:03Z",
       "roles": {
         "5148101007": {
           "title": "2027 Electrical Engineer Intern",
@@ -37,20 +37,13 @@
           "title": "Business Operations, International",
           "location": "Costa Mesa, California, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5022011007?gh_jid=5022011007",
-          "updated_at": "2026-07-01T05:33:04-04:00",
+          "updated_at": "2026-07-02T05:32:01-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
         "5059898007": {
           "title": "Director, Business Development, Advanced Effects (International)",
           "location": "Huntsville, Alabama, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5059898007?gh_jid=5059898007",
-          "updated_at": "2026-07-01T06:11:31-04:00",
-          "first_seen": "2026-06-28T15:54:16Z"
-        },
-        "5033555007": {
-          "title": "Director, Business Development, Advanced Effects (International)",
-          "location": "Costa Mesa, California, United States",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5033555007?gh_jid=5033555007",
           "updated_at": "2026-07-01T06:11:31-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
@@ -61,18 +54,25 @@
           "updated_at": "2026-07-01T06:11:31-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
-        "5170127007": {
-          "title": "Director, Business Development, Maritime (International Programs)",
-          "location": "Washington, District of Columbia, United States",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5170127007?gh_jid=5170127007",
-          "updated_at": "2026-07-01T06:06:37-04:00",
+        "5033555007": {
+          "title": "Director, Business Development, Advanced Effects (International)",
+          "location": "Costa Mesa, California, United States",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5033555007?gh_jid=5033555007",
+          "updated_at": "2026-07-01T06:11:31-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
         "5024425007": {
           "title": "Director, Business Development, Maritime (International Programs)",
           "location": "Costa Mesa, California, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5024425007?gh_jid=5024425007",
-          "updated_at": "2026-07-01T06:06:37-04:00",
+          "updated_at": "2026-07-01T16:53:33-04:00",
+          "first_seen": "2026-06-28T15:54:16Z"
+        },
+        "5170127007": {
+          "title": "Director, Business Development, Maritime (International Programs)",
+          "location": "Washington, District of Columbia, United States",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5170127007?gh_jid=5170127007",
+          "updated_at": "2026-07-01T16:53:51-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
         "5100621007": {
@@ -93,21 +93,28 @@
           "title": "Program Director, International, Air Dominance & Strike",
           "location": "Costa Mesa, California, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/4984294007?gh_jid=4984294007",
-          "updated_at": "2026-07-01T05:27:56-04:00",
+          "updated_at": "2026-07-02T05:25:28-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
+        },
+        "5177202007": {
+          "title": "Proposals Senior Analyst, International",
+          "location": "Washington, District of Columbia, United States",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5177202007?gh_jid=5177202007",
+          "updated_at": "2026-07-02T05:50:10-04:00",
+          "first_seen": "2026-07-02T15:10:03Z"
         },
         "5121643007": {
           "title": "Senior Product Manager, Internal Tools",
           "location": "Costa Mesa, California, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5121643007?gh_jid=5121643007",
-          "updated_at": "2026-07-01T06:44:44-04:00",
+          "updated_at": "2026-07-01T22:54:17-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
         "5166289007": {
           "title": "Senior Product Manager, Internal Tools",
           "location": "Denver, Colorado, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166289007?gh_jid=5166289007",
-          "updated_at": "2026-07-01T06:44:44-04:00",
+          "updated_at": "2026-07-01T22:54:17-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
         "5080710007": {
@@ -124,7 +131,7 @@
       "roles": {}
     },
     "cloudflare": {
-      "last_checked": "2026-07-01T15:37:11Z",
+      "last_checked": "2026-07-02T15:10:03Z",
       "roles": {
         "8014902": {
           "title": "Full Stack Engineer - Internal Audit",
@@ -153,6 +160,13 @@
           "url": "https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883",
           "updated_at": "2026-06-19T14:39:05-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
+        },
+        "8031027": {
+          "title": "Network Strategy Intern (Fall 2026)",
+          "location": "In-Office",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+          "updated_at": "2026-07-01T12:12:00-04:00",
+          "first_seen": "2026-07-02T15:10:03Z"
         },
         "8013562": {
           "title": "Network Strategy Intern (Fall 2026)",
@@ -192,7 +206,7 @@
       }
     },
     "coinbase": {
-      "last_checked": "2026-07-01T15:37:11Z",
+      "last_checked": "2026-07-02T15:10:03Z",
       "roles": {
         "7792926": {
           "title": "Head of SOX and Internal Controls",
@@ -246,27 +260,27 @@
       }
     },
     "disney": {
-      "last_checked": "2026-07-01T15:37:11Z",
+      "last_checked": "2026-07-02T15:10:03Z",
       "roles": {}
     },
     "galaxy_digital": {
-      "last_checked": "2026-07-01T15:37:11Z",
+      "last_checked": "2026-07-02T15:10:03Z",
       "roles": {}
     },
     "jane_street": {
-      "last_checked": "2026-07-01T15:37:11Z",
+      "last_checked": "2026-07-02T15:10:03Z",
       "roles": {}
     },
     "kalshi": {
-      "last_checked": "2026-07-01T15:37:11Z",
+      "last_checked": "2026-07-02T15:10:03Z",
       "roles": {}
     },
     "ramp": {
-      "last_checked": "2026-07-01T15:37:11Z",
+      "last_checked": "2026-07-02T15:10:03Z",
       "roles": {}
     },
     "robinhood": {
-      "last_checked": "2026-07-01T15:37:11Z",
+      "last_checked": "2026-07-02T15:10:03Z",
       "roles": {
         "7489427": {
           "title": "Staff Product Manager, International Growth & Expansion",
@@ -278,11 +292,11 @@
       }
     },
     "securitize": {
-      "last_checked": "2026-07-01T15:37:11Z",
+      "last_checked": "2026-07-02T15:10:03Z",
       "roles": {}
     },
     "stripe": {
-      "last_checked": "2026-07-01T15:37:11Z",
+      "last_checked": "2026-07-02T15:10:03Z",
       "roles": {
         "7532806": {
           "title": "Fullstack Engineer, Internal Tools",
@@ -378,7 +392,7 @@
       }
     },
     "worldquant": {
-      "last_checked": "2026-07-01T15:37:11Z",
+      "last_checked": "2026-07-02T15:10:03Z",
       "roles": {
         "4069460006": {
           "title": "Data Science Intern",
