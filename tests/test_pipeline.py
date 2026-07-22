@@ -153,10 +153,34 @@ class TestFilter:
         from pipeline.filter import matches_criteria
         assert not matches_criteria({"title": "Staff Software Engineer"})
 
-    def test_false_positive_internal(self):
+    def test_internal_is_not_a_false_positive(self):
         from pipeline.filter import matches_criteria
-        # Spec acknowledges this is an acceptable false positive
-        assert matches_criteria({"title": "Internal Audit Analyst"})
+        # Word-boundary matching: "Internal"/"International" must not match
+        assert not matches_criteria({"title": "Internal Audit Analyst"})
+        assert not matches_criteria({"title": "International Tax Manager"})
+
+    def test_co_op_matches(self):
+        from pipeline.filter import matches_criteria
+        assert matches_criteria({"title": "Software Engineering Co-Op"})
+        assert matches_criteria({"title": "Hardware Coop - Summer 2027"})
+
+    def test_program_management_roles_excluded(self):
+        from pipeline.filter import matches_criteria
+        assert not matches_criteria({"title": "Manager, Internship Programs"})
+        assert not matches_criteria({"title": "Recruiting Coordinator - Intern Program"})
+
+    def test_intern_role_with_manager_in_title_is_kept(self):
+        from pipeline.filter import matches_criteria
+        # Real Cloudflare posting — "Manager" here is part of the intern's own
+        # job title, not evidence of a full-time program-management role.
+        assert matches_criteria(
+            {"title": "Sales Project Manager Intern (AI Innovation) (Fall 2026)"}
+        )
+        assert matches_criteria({"title": "Product Manager Intern - Summer 2027"})
+
+    def test_internship_program_posting_without_management_is_kept(self):
+        from pipeline.filter import matches_criteria
+        assert matches_criteria({"title": "Internship Program - Software Engineering"})
 
     def test_filter_jobs_removes_non_interns(self):
         from pipeline.filter import filter_jobs
