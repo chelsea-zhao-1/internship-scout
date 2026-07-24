@@ -2,7 +2,7 @@ name: Check Internship Postings
 
 on:
   schedule:
-    - cron: '0 11 * * *'   # 11:00 UTC = 7:00 AM EDT / 6:00 AM EST (GitHub may delay 30–90 min)
+    - cron: '0 11 * * *'
   workflow_dispatch:         # Allow manual trigger for testing
 
 jobs:
