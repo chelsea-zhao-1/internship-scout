@@ -1,9 +1,21 @@
 sources:
+  - name: airbnb
+    display_name: Airbnb
+    ats: greenhouse
+    boards:
+      - airbnb
+
   - name: anduril
     display_name: Anduril
     ats: greenhouse
     boards:
       - andurilindustries
+
+  - name: aquatic_capital_management
+    display_name: Aquatic Capital Management
+    ats: greenhouse
+    boards:
+      - aquaticcapitalmanagement
 
   - name: cloudflare
     display_name: Cloudflare
@@ -17,11 +29,23 @@ sources:
     boards:
       - coinbase
 
+  - name: datadog
+    display_name: Datadog
+    ats: greenhouse
+    boards:
+      - datadog
+
   - name: disney
     display_name: Disney
     ats: greenhouse
     boards:
       - disney
+
+  - name: flexport
+    display_name: Flexport
+    ats: greenhouse
+    boards:
+      - flexport
 
   - name: galaxy_digital
     display_name: Galaxy Digital
@@ -64,6 +88,12 @@ sources:
     ats: greenhouse
     boards:
       - stripe
+
+  - name: walleye_capital
+    display_name: Walleye Capital
+    ats: greenhouse
+    boards:
+      - walleyecapital-external-students
 
   - name: worldquant
     display_name: WorldQuant
