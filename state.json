@@ -1,9 +1,9 @@
 {
-  "last_checked": "2026-07-23T15:04:17Z",
+  "last_checked": "2026-07-24T14:49:00Z",
   "last_status": "success",
   "sources": {
     "anduril": {
-      "last_checked": "2026-07-23T15:03:57Z",
+      "last_checked": "2026-07-24T14:48:58Z",
       "roles": {
         "5148101007": {
           "title": "2027 Electrical Engineer Intern",
@@ -40,10 +40,10 @@
           "updated_at": "2026-07-22T07:33:46-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
-        "5033555007": {
+        "5059898007": {
           "title": "Director, Business Development, Advanced Effects (International)",
-          "location": "Costa Mesa, California, United States",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5033555007?gh_jid=5033555007",
+          "location": "Huntsville, Alabama, United States",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5059898007?gh_jid=5059898007",
           "updated_at": "2026-07-22T08:05:03-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
@@ -54,10 +54,10 @@
           "updated_at": "2026-07-22T08:05:03-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
-        "5059898007": {
+        "5033555007": {
           "title": "Director, Business Development, Advanced Effects (International)",
-          "location": "Huntsville, Alabama, United States",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5059898007?gh_jid=5059898007",
+          "location": "Costa Mesa, California, United States",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5033555007?gh_jid=5033555007",
           "updated_at": "2026-07-22T08:05:03-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
@@ -82,19 +82,19 @@
           "updated_at": "2026-07-22T09:55:10-04:00",
           "first_seen": "2026-07-22T19:46:45Z"
         },
-        "5082586007": {
-          "title": "Director of Maneuver Dominance & Maritime, International Trade Compliance",
-          "location": "Washington, District of Columbia, United States",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5082586007?gh_jid=5082586007",
-          "updated_at": "2026-07-22T08:23:21-04:00",
-          "first_seen": "2026-07-22T19:46:45Z"
-        },
         "5100621007": {
           "title": "Director of Maneuver Dominance & Maritime, International Trade Compliance",
           "location": "Costa Mesa, California, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5100621007?gh_jid=5100621007",
           "updated_at": "2026-07-22T08:23:21-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
+        },
+        "5082586007": {
+          "title": "Director of Maneuver Dominance & Maritime, International Trade Compliance",
+          "location": "Washington, District of Columbia, United States",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5082586007?gh_jid=5082586007",
+          "updated_at": "2026-07-22T08:23:21-04:00",
+          "first_seen": "2026-07-22T19:46:45Z"
         },
         "5180881007": {
           "title": "International Deployment Manager, Asia-Pacific",
@@ -131,25 +131,11 @@
           "updated_at": "2026-07-17T23:37:11-04:00",
           "first_seen": "2026-07-22T19:46:45Z"
         },
-        "5185057007": {
-          "title": "Manager, Proposals & Capture International",
-          "location": "Washington, District of Columbia, United States",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5185057007?gh_jid=5185057007",
-          "updated_at": "2026-07-22T09:53:14-04:00",
-          "first_seen": "2026-07-22T19:46:45Z"
-        },
-        "5185554007": {
-          "title": "Manager, Proposals & Capture International",
-          "location": "Costa Mesa, California, United States",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5185554007?gh_jid=5185554007",
-          "updated_at": "2026-07-22T09:53:14-04:00",
-          "first_seen": "2026-07-22T19:46:45Z"
-        },
         "4984294007": {
           "title": "Program Director, International, Air Dominance & Strike",
           "location": "Costa Mesa, California, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/4984294007?gh_jid=4984294007",
-          "updated_at": "2026-07-22T07:29:35-04:00",
+          "updated_at": "2026-07-24T05:55:39-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
         "5177202007": {
@@ -159,17 +145,17 @@
           "updated_at": "2026-07-22T07:49:13-04:00",
           "first_seen": "2026-07-02T15:10:03Z"
         },
-        "5121643007": {
-          "title": "Senior Product Manager, Internal Tools",
-          "location": "Costa Mesa, California, United States",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5121643007?gh_jid=5121643007",
-          "updated_at": "2026-07-22T08:34:40-04:00",
-          "first_seen": "2026-06-28T15:54:16Z"
-        },
         "5166289007": {
           "title": "Senior Product Manager, Internal Tools",
           "location": "Denver, Colorado, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166289007?gh_jid=5166289007",
+          "updated_at": "2026-07-22T08:34:40-04:00",
+          "first_seen": "2026-06-28T15:54:16Z"
+        },
+        "5121643007": {
+          "title": "Senior Product Manager, Internal Tools",
+          "location": "Costa Mesa, California, United States",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5121643007?gh_jid=5121643007",
           "updated_at": "2026-07-22T08:34:40-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
@@ -187,7 +173,7 @@
       "roles": {}
     },
     "cloudflare": {
-      "last_checked": "2026-07-23T15:03:57Z",
+      "last_checked": "2026-07-24T14:48:58Z",
       "roles": {
         "8044395": {
           "title": "AI Transformation Intern \u2013 Global Customer Engineering, Service Sales (Fall 2026)",
@@ -217,19 +203,19 @@
           "updated_at": "2026-07-10T10:29:49-04:00",
           "first_seen": "2026-07-22T19:46:45Z"
         },
-        "8013562": {
-          "title": "Network Strategy Intern (Fall 2026)",
-          "location": "In-Office",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
-          "updated_at": "2026-07-02T20:07:55-04:00",
-          "first_seen": "2026-06-28T15:54:16Z"
-        },
         "8031027": {
           "title": "Network Strategy Intern (Fall 2026)",
           "location": "In-Office",
           "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
           "updated_at": "2026-07-01T12:12:00-04:00",
           "first_seen": "2026-07-02T15:10:03Z"
+        },
+        "8013562": {
+          "title": "Network Strategy Intern (Fall 2026)",
+          "location": "In-Office",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+          "updated_at": "2026-07-02T20:07:55-04:00",
+          "first_seen": "2026-06-28T15:54:16Z"
         },
         "8054669": {
           "title": "Principal Systems Engineer - Internal GTM Tools",
@@ -265,24 +251,31 @@
           "url": "https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135",
           "updated_at": "2026-07-08T10:44:34-04:00",
           "first_seen": "2026-07-03T15:05:19Z"
+        },
+        "8080851": {
+          "title": "Vice President, Internal Audit",
+          "location": "Hybrid",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8080851?gh_jid=8080851",
+          "updated_at": "2026-07-23T19:28:34-04:00",
+          "first_seen": "2026-07-24T14:48:58Z"
         }
       }
     },
     "coinbase": {
-      "last_checked": "2026-07-23T15:03:57Z",
+      "last_checked": "2026-07-24T14:48:58Z",
       "roles": {
-        "7822882": {
-          "title": "Head of SOX and Internal Controls",
-          "location": "Remote - Canada",
-          "url": "https://www.coinbase.com/careers/positions/7822882?gh_jid=7822882",
-          "updated_at": "2026-06-23T19:43:11-04:00",
-          "first_seen": "2026-06-28T15:54:16Z"
-        },
         "7792926": {
           "title": "Head of SOX and Internal Controls",
           "location": "Remote - USA",
           "url": "https://www.coinbase.com/careers/positions/7792926?gh_jid=7792926",
           "updated_at": "2026-06-23T19:42:44-04:00",
+          "first_seen": "2026-06-28T15:54:16Z"
+        },
+        "7822882": {
+          "title": "Head of SOX and Internal Controls",
+          "location": "Remote - Canada",
+          "url": "https://www.coinbase.com/careers/positions/7822882?gh_jid=7822882",
+          "updated_at": "2026-06-23T19:43:11-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
         "8031603": {
@@ -316,27 +309,27 @@
       }
     },
     "disney": {
-      "last_checked": "2026-07-23T15:03:57Z",
+      "last_checked": "2026-07-24T14:48:58Z",
       "roles": {}
     },
     "galaxy_digital": {
-      "last_checked": "2026-07-23T15:03:57Z",
+      "last_checked": "2026-07-24T14:48:58Z",
       "roles": {}
     },
     "jane_street": {
-      "last_checked": "2026-07-23T15:03:57Z",
+      "last_checked": "2026-07-24T14:48:58Z",
       "roles": {}
     },
     "kalshi": {
-      "last_checked": "2026-07-23T15:03:57Z",
+      "last_checked": "2026-07-24T14:48:58Z",
       "roles": {}
     },
     "ramp": {
-      "last_checked": "2026-07-23T15:03:57Z",
+      "last_checked": "2026-07-24T14:48:58Z",
       "roles": {}
     },
     "robinhood": {
-      "last_checked": "2026-07-23T15:03:57Z",
+      "last_checked": "2026-07-24T14:48:58Z",
       "roles": {
         "7799655": {
           "title": "Engineering Manager, International Expansion",
@@ -345,18 +338,18 @@
           "updated_at": "2026-07-22T19:13:06-04:00",
           "first_seen": "2026-07-23T15:03:57Z"
         },
-        "8074057": {
-          "title": "Product Marketing Manager, International",
-          "location": "Ljubljana, Slovenia",
-          "url": "https://boards.greenhouse.io/robinhood/jobs/8074057?t=gh_src=&gh_jid=8074057",
-          "updated_at": "2026-07-21T08:53:29-04:00",
-          "first_seen": "2026-07-22T19:46:45Z"
-        },
         "8067556": {
           "title": "Product Marketing Manager, International",
           "location": "London, UK",
           "url": "https://boards.greenhouse.io/robinhood/jobs/8067556?t=gh_src=&gh_jid=8067556",
           "updated_at": "2026-07-21T08:02:50-04:00",
+          "first_seen": "2026-07-22T19:46:45Z"
+        },
+        "8074057": {
+          "title": "Product Marketing Manager, International",
+          "location": "Ljubljana, Slovenia",
+          "url": "https://boards.greenhouse.io/robinhood/jobs/8074057?t=gh_src=&gh_jid=8074057",
+          "updated_at": "2026-07-21T08:53:29-04:00",
           "first_seen": "2026-07-22T19:46:45Z"
         },
         "8074011": {
@@ -366,21 +359,42 @@
           "updated_at": "2026-07-21T08:03:06-04:00",
           "first_seen": "2026-07-22T19:46:45Z"
         },
-        "7489427": {
-          "title": "Staff Product Manager, International Growth & Expansion",
+        "8080181": {
+          "title": "Senior Growth Engagement Manager, International",
+          "location": "Ljubljana, Slovenia",
+          "url": "https://boards.greenhouse.io/robinhood/jobs/8080181?t=gh_src=&gh_jid=8080181",
+          "updated_at": "2026-07-24T03:06:04-04:00",
+          "first_seen": "2026-07-24T14:48:58Z"
+        },
+        "8080182": {
+          "title": "Senior Growth Engagement Manager, International",
+          "location": "Luxembourg, Luxembourg",
+          "url": "https://boards.greenhouse.io/robinhood/jobs/8080182?t=gh_src=&gh_jid=8080182",
+          "updated_at": "2026-07-24T03:06:04-04:00",
+          "first_seen": "2026-07-24T14:48:58Z"
+        },
+        "8080179": {
+          "title": "Senior Growth Engagement Manager, International",
           "location": "London, UK",
-          "url": "https://boards.greenhouse.io/robinhood/jobs/7489427?t=gh_src=&gh_jid=7489427",
-          "updated_at": "2026-07-21T15:47:44-04:00",
-          "first_seen": "2026-06-28T15:54:16Z"
+          "url": "https://boards.greenhouse.io/robinhood/jobs/8080179?t=gh_src=&gh_jid=8080179",
+          "updated_at": "2026-07-24T03:06:04-04:00",
+          "first_seen": "2026-07-24T14:48:58Z"
+        },
+        "8060585": {
+          "title": "Staff PM, International Growth & Expansion",
+          "location": "Menlo Park, CA; New York, NY",
+          "url": "https://boards.greenhouse.io/robinhood/jobs/8060585?t=gh_src=&gh_jid=8060585",
+          "updated_at": "2026-07-23T17:12:03-04:00",
+          "first_seen": "2026-07-24T14:48:58Z"
         }
       }
     },
     "securitize": {
-      "last_checked": "2026-07-23T15:03:57Z",
+      "last_checked": "2026-07-24T14:48:58Z",
       "roles": {}
     },
     "stripe": {
-      "last_checked": "2026-07-23T15:03:57Z",
+      "last_checked": "2026-07-24T14:48:58Z",
       "roles": {
         "8026689": {
           "title": "Internal Audit Data Analytics Lead",
@@ -403,19 +417,19 @@
           "updated_at": "2026-07-22T13:25:41-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
-        "7678541": {
-          "title": "Internal Audit Lead - Treasury, Finance & Operations",
-          "location": "Dublin OR London",
-          "url": "https://stripe.com/jobs/search?gh_jid=7678541",
-          "updated_at": "2026-07-22T13:25:41-04:00",
-          "first_seen": "2026-06-28T15:54:16Z"
-        },
         "8036233": {
           "title": "Internal Auditor - APAC Regulatory & Financial Operations",
           "location": "Singapore",
           "url": "https://stripe.com/jobs/search?gh_jid=8036233",
           "updated_at": "2026-07-22T13:25:41-04:00",
           "first_seen": "2026-06-30T15:24:10Z"
+        },
+        "7678541": {
+          "title": "Internal Audit - Treasury",
+          "location": "Dublin OR London",
+          "url": "https://stripe.com/jobs/search?gh_jid=7678541",
+          "updated_at": "2026-07-24T01:41:44-04:00",
+          "first_seen": "2026-06-28T15:54:16Z"
         },
         "7896151": {
           "title": "Internal Product Engineer, Developer Productivity AI ",
@@ -469,7 +483,7 @@
       }
     },
     "worldquant": {
-      "last_checked": "2026-07-23T15:03:57Z",
+      "last_checked": "2026-07-24T14:48:58Z",
       "roles": {
         "4069460006": {
           "title": "Data Science Intern",
