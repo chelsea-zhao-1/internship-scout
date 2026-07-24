@@ -153,10 +153,23 @@ class TestFilter:
         from pipeline.filter import matches_criteria
         assert not matches_criteria({"title": "Staff Software Engineer"})
 
-    def test_false_positive_internal(self):
+    def test_internal_not_matched(self):
         from pipeline.filter import matches_criteria
-        # Spec acknowledges this is an acceptable false positive
-        assert matches_criteria({"title": "Internal Audit Analyst"})
+        # "internal" must NOT match — whole-word check, not substring
+        assert not matches_criteria({"title": "Internal Audit Analyst"})
+
+    def test_international_not_matched(self):
+        from pipeline.filter import matches_criteria
+        assert not matches_criteria({"title": "International Operations Manager"})
+
+    def test_internship_matches(self):
+        from pipeline.filter import matches_criteria
+        assert matches_criteria({"title": "Summer Internship - Trading"})
+
+    def test_coop_matches(self):
+        from pipeline.filter import matches_criteria
+        assert matches_criteria({"title": "Software Engineering Co-op"})
+        assert matches_criteria({"title": "Engineering Coop Program"})
 
     def test_filter_jobs_removes_non_interns(self):
         from pipeline.filter import filter_jobs
