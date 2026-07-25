@@ -47,6 +47,12 @@ sources:
     boards:
       - disney
 
+  - name: ellipsis_labs
+    display_name: Ellipsis Labs
+    ats: ashby
+    boards:
+      - ellipsislabs
+
   - name: flexport
     display_name: Flexport
     ats: greenhouse
