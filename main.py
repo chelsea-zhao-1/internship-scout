@@ -2,14 +2,16 @@ import sys
 import yaml
 from datetime import datetime, timezone
 
-from adapters.greenhouse import fetch_all_for_source
+from adapters.greenhouse import fetch_all_for_source as fetch_greenhouse
+from adapters.ashby import fetch_all_for_source as fetch_ashby
 from pipeline.filter import filter_jobs
 from pipeline.diff import compute_new_roles
 from pipeline.state import load_state, save_state, build_roles_snapshot
 from notify.gmail import send_email
 
 ATS_ADAPTERS = {
-    "greenhouse": fetch_all_for_source,
+    "greenhouse": fetch_greenhouse,
+    "ashby": fetch_ashby,
 }
 
 

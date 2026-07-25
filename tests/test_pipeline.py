@@ -137,6 +137,89 @@ class TestGreenhouseAdapter:
 
 
 # ---------------------------------------------------------------------------
+# Unit: ashby adapter
+# ---------------------------------------------------------------------------
+
+ASHBY_INTERN_JOB_RAW = {
+    "id": "05e14247-17c4-4e98-9a13-53828a4e2f13",
+    "title": "Software Engineering Intern",
+    "location": "New York, New York",
+    "publishedAt": "2026-04-02T21:00:55.755+00:00",
+    "jobUrl": "https://jobs.ashbyhq.com/acme/05e14247-17c4-4e98-9a13-53828a4e2f13",
+    "applyUrl": "https://jobs.ashbyhq.com/acme/05e14247-17c4-4e98-9a13-53828a4e2f13/application",
+}
+
+ASHBY_SOURCE = {
+    "name": "acme",
+    "display_name": "Acme",
+    "ats": "ashby",
+    "boards": ["acme"],
+}
+
+
+def _make_ashby_response(jobs):
+    mock = MagicMock()
+    mock.status_code = 200
+    mock.json.return_value = {"jobs": jobs, "apiVersion": "1"}
+    return mock
+
+
+class TestAshbyAdapter:
+    def test_normalize_maps_fields(self):
+        from adapters.ashby import _normalize
+        job = _normalize(ASHBY_INTERN_JOB_RAW, "acme")
+        assert job["id"] == "05e14247-17c4-4e98-9a13-53828a4e2f13"
+        assert job["title"] == "Software Engineering Intern"
+        assert job["location"] == "New York, New York"
+        assert job["url"] == "https://jobs.ashbyhq.com/acme/05e14247-17c4-4e98-9a13-53828a4e2f13"
+        assert job["source"] == "acme"
+
+    def test_normalize_missing_location(self):
+        from adapters.ashby import _normalize
+        raw = {**ASHBY_INTERN_JOB_RAW, "location": None}
+        job = _normalize(raw, "acme")
+        assert job["location"] == "Unknown"
+
+    @patch("adapters.ashby.requests.get")
+    def test_fetch_board_success(self, mock_get):
+        from adapters.ashby import _fetch_board
+        mock_get.return_value = _make_ashby_response([ASHBY_INTERN_JOB_RAW])
+        jobs = _fetch_board("acme")
+        assert len(jobs) == 1
+        assert jobs[0]["id"] == "05e14247-17c4-4e98-9a13-53828a4e2f13"
+
+    @patch("adapters.ashby.requests.get")
+    def test_fetch_board_non_200_raises(self, mock_get):
+        from adapters.ashby import _fetch_board
+        mock_get.return_value = MagicMock(status_code=404, text="Not Found")
+        with pytest.raises(RuntimeError, match="404"):
+            _fetch_board("acme")
+
+    @patch("adapters.ashby.requests.get")
+    def test_fetch_board_missing_jobs_key_raises(self, mock_get):
+        from adapters.ashby import _fetch_board
+        mock_get.return_value = MagicMock(status_code=200)
+        mock_get.return_value.json.return_value = {"not_jobs": []}
+        with pytest.raises(RuntimeError, match="missing 'jobs'"):
+            _fetch_board("acme")
+
+    @patch("adapters.ashby.requests.get")
+    def test_deduplication_across_boards(self, mock_get):
+        from adapters.ashby import fetch_all_for_source
+        mock_get.return_value = _make_ashby_response([ASHBY_INTERN_JOB_RAW])
+        source = {**ASHBY_SOURCE, "boards": ["acme", "acme-alt"]}
+        jobs = fetch_all_for_source(source)
+        assert len(jobs) == 1  # deduplicated
+
+    @patch("adapters.ashby.requests.get")
+    def test_empty_jobs_array_is_valid(self, mock_get):
+        from adapters.ashby import fetch_all_for_source
+        mock_get.return_value = _make_ashby_response([])
+        jobs = fetch_all_for_source(ASHBY_SOURCE)
+        assert jobs == []
+
+
+# ---------------------------------------------------------------------------
 # Unit: filter
 # ---------------------------------------------------------------------------
 

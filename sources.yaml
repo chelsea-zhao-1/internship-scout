@@ -17,6 +17,12 @@ sources:
     boards:
       - aquaticcapitalmanagement
 
+  - name: binance_us
+    display_name: Binance.US
+    ats: ashby
+    boards:
+      - binance.us
+
   - name: cloudflare
     display_name: Cloudflare
     ats: greenhouse
@@ -61,15 +67,51 @@ sources:
 
   - name: kalshi
     display_name: Kalshi
-    ats: greenhouse
+    ats: ashby
     boards:
       - kalshi
 
+  - name: notion
+    display_name: Notion
+    ats: ashby
+    boards:
+      - notion
+
+  - name: phantom
+    display_name: Phantom
+    ats: ashby
+    boards:
+      - phantom
+
+  - name: plaid
+    display_name: Plaid
+    ats: ashby
+    boards:
+      - plaid
+
+  - name: polymarket
+    display_name: Polymarket
+    ats: ashby
+    boards:
+      - polymarket
+
+  - name: rain
+    display_name: Rain
+    ats: ashby
+    boards:
+      - rain
+
   - name: ramp
     display_name: Ramp
-    ats: greenhouse
+    ats: ashby
     boards:
-      - rampnetwork
+      - ramp
+
+  - name: replit
+    display_name: Replit
+    ats: ashby
+    boards:
+      - replit
 
   - name: robinhood
     display_name: Robinhood
