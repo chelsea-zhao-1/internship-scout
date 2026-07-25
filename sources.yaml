@@ -23,6 +23,22 @@ sources:
     boards:
       - binance.us
 
+  - name: blackrock
+    display_name: BlackRock
+    ats: workday
+    boards:
+      - tenant: blackrock
+        wd: wd1
+        site: BlackRock_Professional
+
+  - name: citi
+    display_name: Citi
+    ats: workday
+    boards:
+      - tenant: citi
+        wd: wd5
+        site: "2"
+
   - name: cloudflare
     display_name: Cloudflare
     ats: greenhouse
@@ -34,6 +50,14 @@ sources:
     ats: greenhouse
     boards:
       - coinbase
+
+  - name: copart
+    display_name: Copart
+    ats: workday
+    boards:
+      - tenant: copart
+        wd: wd12
+        site: Copart
 
   - name: datadog
     display_name: Datadog
@@ -52,6 +76,14 @@ sources:
     ats: ashby
     boards:
       - ellipsislabs
+
+  - name: fis
+    display_name: FIS
+    ats: workday
+    boards:
+      - tenant: fis
+        wd: wd5
+        site: SearchJobs
 
   - name: flexport
     display_name: Flexport
@@ -77,11 +109,27 @@ sources:
     boards:
       - kalshi
 
+  - name: mastercard
+    display_name: Mastercard
+    ats: workday
+    boards:
+      - tenant: mastercard
+        wd: wd1
+        site: CorporateCareers
+
   - name: notion
     display_name: Notion
     ats: ashby
     boards:
       - notion
+
+  - name: nvidia
+    display_name: Nvidia
+    ats: workday
+    boards:
+      - tenant: nvidia
+        wd: wd5
+        site: NVIDIAExternalCareerSite
 
   - name: phantom
     display_name: Phantom
@@ -113,6 +161,14 @@ sources:
     boards:
       - ramp
 
+  - name: raymond_james
+    display_name: Raymond James
+    ats: workday
+    boards:
+      - tenant: raymondjames
+        wd: wd1
+        site: RaymondJamesEarlyCareers
+
   - name: replit
     display_name: Replit
     ats: ashby
@@ -136,6 +192,14 @@ sources:
     ats: greenhouse
     boards:
       - stripe
+
+  - name: visa
+    display_name: Visa
+    ats: workday
+    boards:
+      - tenant: visa
+        wd: wd5
+        site: Visa
 
   - name: walleye_capital
     display_name: Walleye Capital

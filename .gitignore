@@ -8,3 +8,4 @@ __pycache__/
 .seen.json
 .pytest_cache/
 .claude/
+tests/test_pipeline.py
