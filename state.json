@@ -1,9 +1,9 @@
 {
-  "last_checked": "2026-07-25T12:03:12Z",
+  "last_checked": "2026-07-26T12:03:09Z",
   "last_status": "success",
   "sources": {
     "anduril": {
-      "last_checked": "2026-07-25T12:02:17Z",
+      "last_checked": "2026-07-26T12:02:43Z",
       "roles": {
         "5148101007": {
           "title": "2027 Electrical Engineer Intern",
@@ -47,7 +47,7 @@
       "roles": {}
     },
     "cloudflare": {
-      "last_checked": "2026-07-25T12:02:17Z",
+      "last_checked": "2026-07-26T12:02:43Z",
       "roles": {
         "8044395": {
           "title": "AI Transformation Intern \u2013 Global Customer Engineering, Service Sales (Fall 2026)",
@@ -115,39 +115,55 @@
       }
     },
     "coinbase": {
-      "last_checked": "2026-07-25T12:02:17Z",
+      "last_checked": "2026-07-26T12:02:43Z",
       "roles": {}
     },
     "disney": {
-      "last_checked": "2026-07-25T12:02:17Z",
+      "last_checked": "2026-07-26T12:02:43Z",
       "roles": {}
     },
     "galaxy_digital": {
-      "last_checked": "2026-07-25T12:02:17Z",
+      "last_checked": "2026-07-26T12:02:43Z",
       "roles": {}
     },
     "jane_street": {
-      "last_checked": "2026-07-25T12:02:17Z",
+      "last_checked": "2026-07-26T12:02:43Z",
       "roles": {}
     },
     "kalshi": {
-      "last_checked": "2026-07-25T12:02:17Z",
-      "roles": {}
+      "last_checked": "2026-07-26T12:02:43Z",
+      "roles": {
+        "32bbed2f-888b-406f-873f-d299062fc854": {
+          "title": "Support Ops (Intern)",
+          "location": "New York Office",
+          "url": "https://jobs.ashbyhq.com/kalshi/32bbed2f-888b-406f-873f-d299062fc854",
+          "updated_at": "2026-06-23T03:13:55.671+00:00",
+          "first_seen": "2026-07-26T12:02:43Z"
+        }
+      }
     },
     "ramp": {
-      "last_checked": "2026-07-25T12:02:17Z",
-      "roles": {}
+      "last_checked": "2026-07-26T12:02:43Z",
+      "roles": {
+        "67fadb77-43d8-4449-954b-d4cf2c6d3b8b": {
+          "title": "Software Engineer Internship, Android ",
+          "location": "New York, NY (HQ)",
+          "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
+          "updated_at": "2025-08-07T20:49:38.961+00:00",
+          "first_seen": "2026-07-26T12:02:43Z"
+        }
+      }
     },
     "robinhood": {
-      "last_checked": "2026-07-25T12:02:17Z",
+      "last_checked": "2026-07-26T12:02:43Z",
       "roles": {}
     },
     "securitize": {
-      "last_checked": "2026-07-25T12:02:17Z",
+      "last_checked": "2026-07-26T12:02:43Z",
       "roles": {}
     },
     "stripe": {
-      "last_checked": "2026-07-25T12:02:17Z",
+      "last_checked": "2026-07-26T12:02:43Z",
       "roles": {
         "8031833": {
           "title": "Software Engineer, Intern",
@@ -159,7 +175,7 @@
       }
     },
     "worldquant": {
-      "last_checked": "2026-07-25T12:02:17Z",
+      "last_checked": "2026-07-26T12:02:43Z",
       "roles": {
         "4069460006": {
           "title": "Data Science Intern",
@@ -206,7 +222,7 @@
       }
     },
     "airbnb": {
-      "last_checked": "2026-07-25T12:02:17Z",
+      "last_checked": "2026-07-26T12:02:43Z",
       "roles": {
         "7979270": {
           "title": "Sales Operations Intern, Italy",
@@ -218,7 +234,7 @@
       }
     },
     "aquatic_capital_management": {
-      "last_checked": "2026-07-25T12:02:17Z",
+      "last_checked": "2026-07-26T12:02:43Z",
       "roles": {
         "8489186002": {
           "title": "Quantitative Researcher, Intern (Summer 2027) ",
@@ -237,15 +253,15 @@
       }
     },
     "datadog": {
-      "last_checked": "2026-07-25T12:02:17Z",
+      "last_checked": "2026-07-26T12:02:43Z",
       "roles": {}
     },
     "flexport": {
-      "last_checked": "2026-07-25T12:02:17Z",
+      "last_checked": "2026-07-26T12:02:43Z",
       "roles": {}
     },
     "walleye_capital": {
-      "last_checked": "2026-07-25T12:02:17Z",
+      "last_checked": "2026-07-26T12:02:43Z",
       "roles": {
         "4678723006": {
           "title": "Business Operations Intern (Summer 2027)",
@@ -332,6 +348,163 @@
           "first_seen": "2026-07-25T12:02:17Z"
         }
       }
+    },
+    "binance_us": {
+      "last_checked": "2026-07-26T12:02:43Z",
+      "roles": {
+        "6eed58b2-6889-45ee-8e5e-67bdd93efadf": {
+          "title": "IT Support Intern",
+          "location": "U.S. ",
+          "url": "https://jobs.ashbyhq.com/binance.us/6eed58b2-6889-45ee-8e5e-67bdd93efadf",
+          "updated_at": "2026-06-08T22:17:00.476+00:00",
+          "first_seen": "2026-07-26T12:02:43Z"
+        },
+        "c23e9aa3-0daa-4170-a5a7-b03aaa031895": {
+          "title": "Software Engineering Intern",
+          "location": "U.S. ",
+          "url": "https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895",
+          "updated_at": "2026-06-25T00:44:17.446+00:00",
+          "first_seen": "2026-07-26T12:02:43Z"
+        }
+      }
+    },
+    "blackrock": {
+      "last_checked": "2026-07-26T12:02:43Z",
+      "roles": {}
+    },
+    "citi": {
+      "last_checked": "2026-07-26T12:02:43Z",
+      "roles": {
+        "/job/Sao-Paulo-Sao-Paulo-Brazil/Banking----Commercial-Banking--Internship--So-Paulo---Brazil--2026_26981144": {
+          "title": "Banking  \u2013 Commercial Banking, Internship, S\u00e3o Paulo \u2013 Brazil, 2026",
+          "location": "Sao Paulo Sao Paulo Brazil",
+          "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Banking----Commercial-Banking--Internship--So-Paulo---Brazil--2026_26981144",
+          "updated_at": "Posted 2 Days Ago",
+          "first_seen": "2026-07-26T12:02:43Z"
+        }
+      }
+    },
+    "copart": {
+      "last_checked": "2026-07-26T12:02:43Z",
+      "roles": {
+        "/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110078": {
+          "title": "Technology Product Analyst Intern",
+          "location": "Dallas, TX - Headquarters",
+          "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110078",
+          "updated_at": "Posted 3 Days Ago",
+          "first_seen": "2026-07-26T12:02:43Z"
+        }
+      }
+    },
+    "ellipsis_labs": {
+      "last_checked": "2026-07-26T12:02:43Z",
+      "roles": {
+        "02136b22-35b1-4b3d-8bef-567c3380a849": {
+          "title": "Software Engineer - 2027 Interns",
+          "location": "New York, New York",
+          "url": "https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849",
+          "updated_at": "2026-03-26T19:40:01.700+00:00",
+          "first_seen": "2026-07-26T12:02:43Z"
+        }
+      }
+    },
+    "fis": {
+      "last_checked": "2026-07-26T12:02:43Z",
+      "roles": {
+        "/job/TUN-ARIA-150/Test-Automation--Playwright----AI--Summer-Intern_JR0308359": {
+          "title": "Test Automation (Playwright) & AI, Summer Intern",
+          "location": "TUN ARIA 150",
+          "url": "https://fis.wd5.myworkdayjobs.com/en-US/SearchJobs/job/TUN-ARIA-150/Test-Automation--Playwright----AI--Summer-Intern_JR0308359",
+          "updated_at": "Posted 4 Days Ago",
+          "first_seen": "2026-07-26T12:02:43Z"
+        },
+        "/job/SRB-BELG-136B-FLR2/Intern_JR0307341": {
+          "title": "Cash & Data Analyst Intern",
+          "location": "SRB BELG 136B FLR2",
+          "url": "https://fis.wd5.myworkdayjobs.com/en-US/SearchJobs/job/SRB-BELG-136B-FLR2/Intern_JR0307341",
+          "updated_at": "Posted 30+ Days Ago",
+          "first_seen": "2026-07-26T12:02:43Z"
+        }
+      }
+    },
+    "mastercard": {
+      "last_checked": "2026-07-26T12:02:43Z",
+      "roles": {
+        "/job/Bogota-Colombia/Internship-Program---Mastercard---2027---Bogota--Colombia_R-286675": {
+          "title": "Internship Program @ Mastercard , 2027 \u2013 Bogota, Colombia",
+          "location": "Bogota, Colombia",
+          "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Bogota-Colombia/Internship-Program---Mastercard---2027---Bogota--Colombia_R-286675",
+          "updated_at": "Posted 2 Days Ago",
+          "first_seen": "2026-07-26T12:02:43Z"
+        }
+      }
+    },
+    "notion": {
+      "last_checked": "2026-07-26T12:02:43Z",
+      "roles": {
+        "6ccbc30c-2de0-4395-af14-3641cd15961b": {
+          "title": "Governance, Risk, and Compliance Intern (Fall 2026)",
+          "location": "San Francisco, California",
+          "url": "https://jobs.ashbyhq.com/notion/6ccbc30c-2de0-4395-af14-3641cd15961b",
+          "updated_at": "2026-07-15T23:18:57.929+00:00",
+          "first_seen": "2026-07-26T12:02:43Z"
+        },
+        "5b15697c-fa91-4511-9482-c98a6ff29f90": {
+          "title": "Software Engineer Intern (Fall 2026)",
+          "location": "San Francisco, California",
+          "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90",
+          "updated_at": "2026-04-06T22:40:58.312+00:00",
+          "first_seen": "2026-07-26T12:02:43Z"
+        }
+      }
+    },
+    "nvidia": {
+      "last_checked": "2026-07-26T12:02:43Z",
+      "roles": {}
+    },
+    "phantom": {
+      "last_checked": "2026-07-26T12:02:43Z",
+      "roles": {}
+    },
+    "plaid": {
+      "last_checked": "2026-07-26T12:02:43Z",
+      "roles": {}
+    },
+    "polymarket": {
+      "last_checked": "2026-07-26T12:02:43Z",
+      "roles": {
+        "9fbf8f68-5f92-434d-a00b-c79f99f5a10e": {
+          "title": "Polymarket 2026 Summer Internship \u2014 Marketing & Finance",
+          "location": "Remote",
+          "url": "https://jobs.ashbyhq.com/polymarket/9fbf8f68-5f92-434d-a00b-c79f99f5a10e",
+          "updated_at": "2026-05-29T18:00:18.730+00:00",
+          "first_seen": "2026-07-26T12:02:43Z"
+        }
+      }
+    },
+    "rain": {
+      "last_checked": "2026-07-26T12:02:43Z",
+      "roles": {}
+    },
+    "raymond_james": {
+      "last_checked": "2026-07-26T12:02:43Z",
+      "roles": {}
+    },
+    "replit": {
+      "last_checked": "2026-07-26T12:02:43Z",
+      "roles": {
+        "12737078-74c7-4e63-98a7-5e8da1e9deb1": {
+          "title": "Software Engineering Intern (Summer 2026)",
+          "location": "Foster City, CA",
+          "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1",
+          "updated_at": "2025-10-01T16:02:40.431+00:00",
+          "first_seen": "2026-07-26T12:02:43Z"
+        }
+      }
+    },
+    "visa": {
+      "last_checked": "2026-07-26T12:02:43Z",
+      "roles": {}
     }
   }
 }
