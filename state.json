@@ -1,9 +1,9 @@
 {
-  "last_checked": "2026-08-01T12:01:48Z",
+  "last_checked": "2026-08-02T12:02:55Z",
   "last_status": "success",
   "sources": {
     "anduril": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {
         "5148101007": {
           "title": "2027 Electrical Engineer Intern",
@@ -47,7 +47,7 @@
       "roles": {}
     },
     "cloudflare": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {
         "8044395": {
           "title": "AI Innovation Intern \u2013 Service Sales (Fall 2026)",
@@ -129,23 +129,23 @@
       }
     },
     "coinbase": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {}
     },
     "disney": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {}
     },
     "galaxy_digital": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {}
     },
     "jane_street": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {}
     },
     "kalshi": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {
         "32bbed2f-888b-406f-873f-d299062fc854": {
           "title": "Support Ops (Intern)",
@@ -157,7 +157,7 @@
       }
     },
     "ramp": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {
         "67fadb77-43d8-4449-954b-d4cf2c6d3b8b": {
           "title": "Software Engineer Internship, Android ",
@@ -169,15 +169,15 @@
       }
     },
     "robinhood": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {}
     },
     "securitize": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {}
     },
     "stripe": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {
         "8031833": {
           "title": "Software Engineer, Intern",
@@ -189,7 +189,7 @@
       }
     },
     "worldquant": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {
         "4069460006": {
           "title": "Data Science Intern",
@@ -243,11 +243,11 @@
       }
     },
     "airbnb": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {}
     },
     "aquatic_capital_management": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {
         "8489186002": {
           "title": "Quantitative Researcher, Intern (Summer 2027) ",
@@ -266,34 +266,34 @@
       }
     },
     "datadog": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {}
     },
     "flexport": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {}
     },
     "walleye_capital": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {
         "4676334006": {
           "title": "Equity Volatility Quant Researcher Intern (Summer 2027)",
           "location": "Miami, FL",
           "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
-          "updated_at": "2026-08-01T07:18:46-04:00",
+          "updated_at": "2026-08-01T20:25:32-04:00",
           "first_seen": "2026-07-25T12:02:17Z"
         },
         "4679184006": {
           "title": "Quantic - PhD Quantitative Researcher Intern (Summer 2027)",
           "location": "Boston, MA",
           "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006",
-          "updated_at": "2026-06-01T09:00:40-04:00",
+          "updated_at": "2026-08-01T20:25:12-04:00",
           "first_seen": "2026-07-25T12:02:17Z"
         }
       }
     },
     "binance_us": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {
         "6eed58b2-6889-45ee-8e5e-67bdd93efadf": {
           "title": "IT Support Intern",
@@ -312,19 +312,19 @@
       }
     },
     "blackrock": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {}
     },
     "citi": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {}
     },
     "copart": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {}
     },
     "ellipsis_labs": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {
         "02136b22-35b1-4b3d-8bef-567c3380a849": {
           "title": "Software Engineer - 2027 Interns",
@@ -336,13 +336,13 @@
       }
     },
     "fis": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {
         "/job/TUN-ARIA-150/Test-Automation--Playwright----AI--Summer-Intern_JR0308359": {
           "title": "Test Automation (Playwright) & AI, Summer Intern",
           "location": "TUN ARIA 150",
           "url": "https://fis.wd5.myworkdayjobs.com/en-US/SearchJobs/job/TUN-ARIA-150/Test-Automation--Playwright----AI--Summer-Intern_JR0308359",
-          "updated_at": "Posted 10 Days Ago",
+          "updated_at": "Posted 11 Days Ago",
           "first_seen": "2026-07-26T12:02:43Z"
         },
         "/job/SRB-BELG-136B-FLR2/Intern_JR0307341": {
@@ -355,33 +355,33 @@
       }
     },
     "mastercard": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {
         "/job/Mexico-City-Mexico/Associate-Consultant-Intern--Strategy---Transformation--Internship-Program-2027---Mexico-City--Mexico_R-286993-1": {
           "title": "Associate Consultant Intern, Strategy & Transformation, Internship Program 2027 - Mexico City, Mexico",
           "location": "Mexico City, Mexico",
           "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Mexico-City-Mexico/Associate-Consultant-Intern--Strategy---Transformation--Internship-Program-2027---Mexico-City--Mexico_R-286993-1",
-          "updated_at": "Posted Yesterday",
+          "updated_at": "Posted 2 Days Ago",
           "first_seen": "2026-08-01T12:01:23Z"
         },
         "/job/Mexico-City-Mexico/Associate-Consultant-Intern--Business-Experimentation--Internship-Program-2027---Mexico-City--Mexico_R-286992-1": {
           "title": "Associate Consultant Intern, Business Experimentation, Internship Program 2027 - Mexico City, Mexico",
           "location": "Mexico City, Mexico",
           "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Mexico-City-Mexico/Associate-Consultant-Intern--Business-Experimentation--Internship-Program-2027---Mexico-City--Mexico_R-286992-1",
-          "updated_at": "Posted Yesterday",
+          "updated_at": "Posted 2 Days Ago",
           "first_seen": "2026-08-01T12:01:23Z"
         },
         "/job/Mexico-City-Mexico/Associate-Consultant-Intern--Marketing-Services--Internship-Program-2027---Mexico-City--Mexico_R-286990": {
           "title": "Associate Consultant Intern, Marketing Services, Internship Program 2027 - Mexico City, Mexico",
           "location": "Mexico City, Mexico",
           "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Mexico-City-Mexico/Associate-Consultant-Intern--Marketing-Services--Internship-Program-2027---Mexico-City--Mexico_R-286990",
-          "updated_at": "Posted Yesterday",
+          "updated_at": "Posted 2 Days Ago",
           "first_seen": "2026-08-01T12:01:23Z"
         }
       }
     },
     "notion": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {
         "6ccbc30c-2de0-4395-af14-3641cd15961b": {
           "title": "Governance, Risk, and Compliance Intern (Fall 2026)",
@@ -393,19 +393,19 @@
       }
     },
     "nvidia": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {}
     },
     "phantom": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {}
     },
     "plaid": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {}
     },
     "polymarket": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {
         "9fbf8f68-5f92-434d-a00b-c79f99f5a10e": {
           "title": "Polymarket 2026 Summer Internship \u2014 Marketing & Finance",
@@ -417,15 +417,15 @@
       }
     },
     "rain": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {}
     },
     "raymond_james": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {}
     },
     "replit": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {
         "12737078-74c7-4e63-98a7-5e8da1e9deb1": {
           "title": "Software Engineering Intern (Summer 2026)",
@@ -437,7 +437,7 @@
       }
     },
     "visa": {
-      "last_checked": "2026-08-01T12:01:23Z",
+      "last_checked": "2026-08-02T12:02:12Z",
       "roles": {}
     }
   }
