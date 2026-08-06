@@ -1,9 +1,9 @@
 {
-  "last_checked": "2026-08-04T13:02:39Z",
+  "last_checked": "2026-08-06T12:56:01Z",
   "last_status": "success",
   "sources": {
     "anduril": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {
         "5148101007": {
           "title": "2027 Electrical Engineer Intern",
@@ -47,7 +47,7 @@
       "roles": {}
     },
     "cloudflare": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {
         "7902104": {
           "title": "Accounting Intern (Fall 2026)",
@@ -76,6 +76,13 @@
           "url": "https://boards.greenhouse.io/cloudflare/jobs/8093127?gh_jid=8093127",
           "updated_at": "2026-08-03T15:01:44-04:00",
           "first_seen": "2026-08-01T12:01:23Z"
+        },
+        "8095533": {
+          "title": "GRC Team Intern (Fall 2026) ",
+          "location": "In-Office",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8095533?gh_jid=8095533",
+          "updated_at": "2026-08-04T12:50:15-04:00",
+          "first_seen": "2026-08-06T12:55:10Z"
         },
         "8053546": {
           "title": "Marketing Events and Campaigns Intern (Fall 2026)",
@@ -144,29 +151,36 @@
           "title": "Technical Marketing Intern (Fall 2026)",
           "location": "In-Office",
           "url": "https://boards.greenhouse.io/cloudflare/jobs/8104024?gh_jid=8104024",
-          "updated_at": "2026-08-03T19:33:13-04:00",
+          "updated_at": "2026-08-04T11:27:21-04:00",
           "first_seen": "2026-08-04T13:02:05Z"
+        },
+        "8105728": {
+          "title": "U.S. Public Policy and AI Innovation Intern (Fall 2026)",
+          "location": "In-Office",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728",
+          "updated_at": "2026-08-04T17:07:46-04:00",
+          "first_seen": "2026-08-06T12:55:10Z"
         }
       }
     },
     "coinbase": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     },
     "disney": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     },
     "galaxy_digital": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     },
     "jane_street": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     },
     "kalshi": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {
         "32bbed2f-888b-406f-873f-d299062fc854": {
           "title": "Support Ops (Intern)",
@@ -178,7 +192,7 @@
       }
     },
     "ramp": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {
         "67fadb77-43d8-4449-954b-d4cf2c6d3b8b": {
           "title": "Software Engineer Internship, Android ",
@@ -190,15 +204,15 @@
       }
     },
     "robinhood": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     },
     "securitize": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     },
     "stripe": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {
         "8031833": {
           "title": "Software Engineer, Intern",
@@ -210,7 +224,7 @@
       }
     },
     "worldquant": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {
         "4069460006": {
           "title": "Data Science Intern",
@@ -230,7 +244,7 @@
           "title": "Quantitative Research Intern",
           "location": "Beijing OR Shanghai",
           "url": "https://job-boards.greenhouse.io/worldquant/jobs/4084570006",
-          "updated_at": "2026-05-04T13:20:10-04:00",
+          "updated_at": "2026-08-06T06:51:32-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
         "4314066006": {
@@ -264,11 +278,11 @@
       }
     },
     "airbnb": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     },
     "aquatic_capital_management": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {
         "8489186002": {
           "title": "Quantitative Researcher, Intern (Summer 2027) ",
@@ -287,15 +301,15 @@
       }
     },
     "datadog": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     },
     "flexport": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     },
     "walleye_capital": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {
         "4676334006": {
           "title": "Equity Volatility Quant Researcher Intern (Summer 2027)",
@@ -310,11 +324,18 @@
           "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006",
           "updated_at": "2026-08-01T20:25:12-04:00",
           "first_seen": "2026-07-25T12:02:17Z"
+        },
+        "4679168006": {
+          "title": "Quantic \u2013 Quantitative Developer Intern (Summer 2027)",
+          "location": "Boston, MA",
+          "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+          "updated_at": "2026-08-04T16:30:05-04:00",
+          "first_seen": "2026-08-06T12:55:10Z"
         }
       }
     },
     "binance_us": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {
         "6eed58b2-6889-45ee-8e5e-67bdd93efadf": {
           "title": "IT Support Intern",
@@ -333,34 +354,27 @@
       }
     },
     "blackrock": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     },
     "citi": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     },
     "copart": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {
         "/job/Dallas-TX---Headquarters/Vulnerability-Management-Engineering-Intern-_JR109639": {
           "title": "Vulnerability Management Engineering Intern\u00a0",
           "location": "Dallas, TX - Headquarters",
           "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/Vulnerability-Management-Engineering-Intern-_JR109639",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-04T13:02:05Z"
-        },
-        "/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353": {
-          "title": "Software Engineering Intern",
-          "location": "Dallas, TX - Headquarters",
-          "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353",
           "updated_at": "Posted 2 Days Ago",
-          "first_seen": "2026-08-03T13:40:38Z"
+          "first_seen": "2026-08-04T13:02:05Z"
         }
       }
     },
     "ellipsis_labs": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {
         "02136b22-35b1-4b3d-8bef-567c3380a849": {
           "title": "Software Engineer - 2027 Interns",
@@ -372,15 +386,15 @@
       }
     },
     "fis": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     },
     "mastercard": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     },
     "notion": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {
         "6ccbc30c-2de0-4395-af14-3641cd15961b": {
           "title": "Governance, Risk, and Compliance Intern (Fall 2026)",
@@ -392,19 +406,19 @@
       }
     },
     "nvidia": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     },
     "phantom": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     },
     "plaid": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     },
     "polymarket": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {
         "9fbf8f68-5f92-434d-a00b-c79f99f5a10e": {
           "title": "Polymarket 2026 Summer Internship \u2014 Marketing & Finance",
@@ -416,27 +430,19 @@
       }
     },
     "rain": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     },
     "raymond_james": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     },
     "replit": {
-      "last_checked": "2026-08-04T13:02:05Z",
-      "roles": {
-        "12737078-74c7-4e63-98a7-5e8da1e9deb1": {
-          "title": "Software Engineering Intern (Summer 2026)",
-          "location": "Foster City, CA",
-          "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1",
-          "updated_at": "2025-10-01T16:02:40.431+00:00",
-          "first_seen": "2026-07-26T12:02:43Z"
-        }
-      }
+      "last_checked": "2026-08-06T12:55:10Z",
+      "roles": {}
     },
     "visa": {
-      "last_checked": "2026-08-04T13:02:05Z",
+      "last_checked": "2026-08-06T12:55:10Z",
       "roles": {}
     }
   }
