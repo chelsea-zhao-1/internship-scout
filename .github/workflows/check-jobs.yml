@@ -29,6 +29,7 @@ jobs:
           NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
 
       - uses: stefanzweifel/git-auto-commit-action@v5
+        if: always()
         with:
           commit_message: "chore: update job state [skip ci]"
           file_pattern: state.json

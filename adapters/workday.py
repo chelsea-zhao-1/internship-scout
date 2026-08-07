@@ -51,8 +51,11 @@ def _fetch_board(board: dict) -> list[dict]:
     return all_postings
 
 
-def _normalize(raw_job: dict, source_name: str, board: dict) -> dict:
-    external_path = raw_job["externalPath"]
+def _normalize(raw_job: dict, source_name: str, board: dict) -> dict | None:
+    external_path = raw_job.get("externalPath")
+    if not external_path:
+        # Some Workday boards return postings without externalPath; skip rather than fail the whole source.
+        return None
     return {
         "id": external_path,
         "title": raw_job["title"],
@@ -75,6 +78,8 @@ def fetch_all_for_source(source: dict) -> list[dict]:
         raw_postings = _fetch_board(board)
         for raw in raw_postings:
             job = _normalize(raw, source_name, board)
+            if job is None:
+                continue
             if job["id"] not in seen_ids:
                 seen_ids.add(job["id"])
                 jobs.append(job)
