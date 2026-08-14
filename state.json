@@ -1,9 +1,9 @@
 {
-  "last_checked": "2026-08-13T11:45:08Z",
+  "last_checked": "2026-08-14T11:43:01Z",
   "last_status": "success",
   "sources": {
     "anduril": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {
         "5148101007": {
           "title": "2027 Electrical Engineer Intern",
@@ -47,7 +47,7 @@
       "roles": {}
     },
     "cloudflare": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {
         "7902104": {
           "title": "Accounting Intern (Fall 2026)",
@@ -56,19 +56,12 @@
           "updated_at": "2026-08-06T15:17:31-04:00",
           "first_seen": "2026-08-04T13:02:05Z"
         },
-        "8044395": {
-          "title": "AI Innovation Intern \u2013 Service Sales (Fall 2026)",
+        "7838607": {
+          "title": "Marketing Campaigns & Account-Based Marketing (ABM) Intern (Fall 2026)",
           "location": "In-Office",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395",
-          "updated_at": "2026-08-11T07:24:52-04:00",
-          "first_seen": "2026-07-31T12:54:58Z"
-        },
-        "8031027": {
-          "title": "Network Strategy Intern (Fall 2026)",
-          "location": "In-Office",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
-          "updated_at": "2026-08-06T15:17:31-04:00",
-          "first_seen": "2026-07-02T15:10:03Z"
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/7838607?gh_jid=7838607",
+          "updated_at": "2026-08-14T05:13:48-04:00",
+          "first_seen": "2026-08-14T11:42:19Z"
         },
         "8013562": {
           "title": "Network Strategy Intern (Fall 2026)",
@@ -77,12 +70,26 @@
           "updated_at": "2026-08-10T19:53:31-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
+        "8031027": {
+          "title": "Network Strategy Intern (Fall 2026)",
+          "location": "In-Office",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+          "updated_at": "2026-08-06T15:17:31-04:00",
+          "first_seen": "2026-07-02T15:10:03Z"
+        },
         "7796077": {
           "title": "Professional Services Intern \u2013 Global Customer Services (Fall 2026)",
           "location": "In-Office",
           "url": "https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077",
           "updated_at": "2026-08-06T15:17:31-04:00",
           "first_seen": "2026-07-03T15:05:19Z"
+        },
+        "8089407": {
+          "title": "Research Engineer Intern (Fall 2026)",
+          "location": "In-Office",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+          "updated_at": "2026-08-06T15:17:31-04:00",
+          "first_seen": "2026-07-30T12:28:19Z"
         },
         "8089379": {
           "title": "Research Engineer Intern (Fall 2026)",
@@ -95,13 +102,6 @@
           "title": "Research Engineer Intern (Fall 2026)",
           "location": "In-Office",
           "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
-          "updated_at": "2026-08-06T15:17:31-04:00",
-          "first_seen": "2026-07-30T12:28:19Z"
-        },
-        "8089407": {
-          "title": "Research Engineer Intern (Fall 2026)",
-          "location": "In-Office",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
           "updated_at": "2026-08-06T15:17:31-04:00",
           "first_seen": "2026-07-30T12:28:19Z"
         },
@@ -122,23 +122,23 @@
       }
     },
     "coinbase": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {}
     },
     "disney": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {}
     },
     "galaxy_digital": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {}
     },
     "jane_street": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {}
     },
     "kalshi": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {
         "32bbed2f-888b-406f-873f-d299062fc854": {
           "title": "Support Ops (Intern)",
@@ -150,7 +150,7 @@
       }
     },
     "ramp": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {
         "67fadb77-43d8-4449-954b-d4cf2c6d3b8b": {
           "title": "Software Engineer Internship, Android ",
@@ -162,7 +162,7 @@
       }
     },
     "robinhood": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {
         "8103727": {
           "title": "Market Research Strategy Intern",
@@ -174,23 +174,23 @@
       }
     },
     "securitize": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {}
     },
     "stripe": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {
         "8031833": {
           "title": "Software Engineer, Intern",
           "location": "Bengaluru",
           "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-          "updated_at": "2026-08-06T12:10:13-04:00",
+          "updated_at": "2026-08-13T17:28:59-04:00",
           "first_seen": "2026-07-22T19:46:45Z"
         }
       }
     },
     "worldquant": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {
         "4069460006": {
           "title": "Data Science Intern",
@@ -237,11 +237,11 @@
       }
     },
     "airbnb": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {}
     },
     "aquatic_capital_management": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {
         "8489186002": {
           "title": "Quantitative Researcher, Intern (Summer 2027) ",
@@ -260,15 +260,15 @@
       }
     },
     "datadog": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {}
     },
     "flexport": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {}
     },
     "walleye_capital": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {
         "4676334006": {
           "title": "Equity Volatility Quant Researcher Intern (Summer 2027)",
@@ -294,7 +294,7 @@
       }
     },
     "binance_us": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {
         "c23e9aa3-0daa-4170-a5a7-b03aaa031895": {
           "title": "Software Engineering Intern",
@@ -306,27 +306,34 @@
       }
     },
     "blackrock": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {}
     },
     "citi": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {}
     },
     "copart": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {
+        "/job/Dallas-TX---Headquarters/Field-Engineering-Intern_JR110512": {
+          "title": "Field Engineering Intern",
+          "location": "Dallas, TX - Headquarters",
+          "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/Field-Engineering-Intern_JR110512",
+          "updated_at": "Posted Yesterday",
+          "first_seen": "2026-08-14T11:42:19Z"
+        },
         "/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890": {
           "title": "Technology Product Analyst Intern",
           "location": "Dallas, TX - Headquarters",
           "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890",
-          "updated_at": "Posted Yesterday",
+          "updated_at": "Posted 2 Days Ago",
           "first_seen": "2026-08-13T11:44:36Z"
         }
       }
     },
     "ellipsis_labs": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {
         "02136b22-35b1-4b3d-8bef-567c3380a849": {
           "title": "Software Engineer - 2027 Interns",
@@ -338,15 +345,15 @@
       }
     },
     "fis": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {}
     },
     "mastercard": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {}
     },
     "notion": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {
         "6ccbc30c-2de0-4395-af14-3641cd15961b": {
           "title": "Governance, Risk, and Compliance Intern (Fall 2026)",
@@ -358,19 +365,19 @@
       }
     },
     "nvidia": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {}
     },
     "phantom": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {}
     },
     "plaid": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {}
     },
     "polymarket": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {
         "9fbf8f68-5f92-434d-a00b-c79f99f5a10e": {
           "title": "Polymarket 2026 Summer Internship \u2014 Marketing & Finance",
@@ -382,27 +389,19 @@
       }
     },
     "rain": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {}
     },
     "raymond_james": {
-      "last_checked": "2026-08-13T11:44:36Z",
-      "roles": {
-        "/job/PA---Philadelphia---1650-Market-Street-Floor-53/Equity-Co-Op_R-0012469": {
-          "title": "Equity Co-Op",
-          "location": "Unknown",
-          "url": "https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/PA---Philadelphia---1650-Market-Street-Floor-53/Equity-Co-Op_R-0012469",
-          "updated_at": "Posted 6 Days Ago",
-          "first_seen": "2026-08-08T11:27:42Z"
-        }
-      }
+      "last_checked": "2026-08-14T11:42:19Z",
+      "roles": {}
     },
     "replit": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {}
     },
     "visa": {
-      "last_checked": "2026-08-13T11:44:36Z",
+      "last_checked": "2026-08-14T11:42:19Z",
       "roles": {}
     }
   }
