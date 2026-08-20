@@ -1,36 +1,36 @@
 {
-  "last_checked": "2026-08-19T11:23:57Z",
+  "last_checked": "2026-08-20T11:25:56Z",
   "last_status": "success",
   "sources": {
     "anduril": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {
         "5148101007": {
           "title": "2027 Electrical Engineer Intern",
-          "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+          "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007",
-          "updated_at": "2026-08-11T15:07:56-04:00",
+          "updated_at": "2026-08-19T18:54:40-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
         "5153218007": {
           "title": "2027 Manufacturing Engineer Intern",
-          "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States",
+          "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007",
-          "updated_at": "2026-08-11T15:07:56-04:00",
+          "updated_at": "2026-08-19T18:32:31-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
         "5153187007": {
           "title": "2027 Mechanical Engineer Intern",
-          "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+          "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007",
-          "updated_at": "2026-08-11T15:07:56-04:00",
+          "updated_at": "2026-08-19T18:31:19-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
         "5148079007": {
           "title": "2027 Software Engineer Intern",
-          "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+          "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
-          "updated_at": "2026-08-12T11:38:31-04:00",
+          "updated_at": "2026-08-19T17:28:02-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
         "5170844007": {
@@ -47,7 +47,7 @@
       "roles": {}
     },
     "cloudflare": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {
         "7902104": {
           "title": "Accounting Intern (Fall 2026)",
@@ -55,6 +55,13 @@
           "url": "https://boards.greenhouse.io/cloudflare/jobs/7902104?gh_jid=7902104",
           "updated_at": "2026-08-06T15:17:31-04:00",
           "first_seen": "2026-08-04T13:02:05Z"
+        },
+        "8068479": {
+          "title": "EIAM Business Enablement & Operations Intern (Fall 2026) ",
+          "location": "In-Office",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8068479?gh_jid=8068479",
+          "updated_at": "2026-08-19T12:27:28-04:00",
+          "first_seen": "2026-08-20T11:25:22Z"
         },
         "8129796": {
           "title": "GRC Team Intern (Fall 2026) ",
@@ -105,10 +112,10 @@
           "updated_at": "2026-08-06T15:17:31-04:00",
           "first_seen": "2026-07-03T15:05:19Z"
         },
-        "8089379": {
+        "8089400": {
           "title": "Research Engineer Intern (Fall 2026)",
           "location": "In-Office",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
           "updated_at": "2026-08-06T15:17:31-04:00",
           "first_seen": "2026-07-30T12:28:19Z"
         },
@@ -119,10 +126,10 @@
           "updated_at": "2026-08-06T15:17:31-04:00",
           "first_seen": "2026-07-30T12:28:19Z"
         },
-        "8089400": {
+        "8089379": {
           "title": "Research Engineer Intern (Fall 2026)",
           "location": "In-Office",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
           "updated_at": "2026-08-06T15:17:31-04:00",
           "first_seen": "2026-07-30T12:28:19Z"
         },
@@ -143,23 +150,23 @@
       }
     },
     "coinbase": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {}
     },
     "disney": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {}
     },
     "galaxy_digital": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {}
     },
     "jane_street": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {}
     },
     "kalshi": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {
         "32bbed2f-888b-406f-873f-d299062fc854": {
           "title": "Support Ops (Intern)",
@@ -171,7 +178,7 @@
       }
     },
     "ramp": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {
         "67fadb77-43d8-4449-954b-d4cf2c6d3b8b": {
           "title": "Software Engineer Internship, Android ",
@@ -183,7 +190,7 @@
       }
     },
     "robinhood": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {
         "8103727": {
           "title": "Market Research Strategy Intern",
@@ -195,30 +202,30 @@
       }
     },
     "securitize": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {}
     },
     "stripe": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {
+        "8097801": {
+          "title": "Software Engineer, Intern",
+          "location": "Dublin",
+          "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+          "updated_at": "2026-08-19T12:08:07-04:00",
+          "first_seen": "2026-08-18T11:24:11Z"
+        },
         "8031833": {
           "title": "Software Engineer, Intern",
           "location": "Bengaluru",
           "url": "https://stripe.com/jobs/search?gh_jid=8031833",
           "updated_at": "2026-08-18T17:37:29-04:00",
           "first_seen": "2026-07-22T19:46:45Z"
-        },
-        "8097801": {
-          "title": "Software Engineer, Intern",
-          "location": "Dublin",
-          "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-          "updated_at": "2026-08-18T17:57:25-04:00",
-          "first_seen": "2026-08-18T11:24:11Z"
         }
       }
     },
     "worldquant": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {
         "4069460006": {
           "title": "Data Science Intern",
@@ -248,28 +255,28 @@
           "updated_at": "2026-07-28T05:56:33-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
-        "4655484006": {
-          "title": "Software Engineer Intern",
-          "location": "Budapest",
-          "url": "https://job-boards.greenhouse.io/worldquant/jobs/4655484006",
-          "updated_at": "2026-05-04T13:20:10-04:00",
-          "first_seen": "2026-06-28T15:54:16Z"
-        },
         "4652485006": {
           "title": "Software Engineer Intern",
           "location": "Hanoi",
           "url": "https://job-boards.greenhouse.io/worldquant/jobs/4652485006",
           "updated_at": "2026-07-28T06:02:33-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
+        },
+        "4655484006": {
+          "title": "Software Engineer Intern",
+          "location": "Budapest",
+          "url": "https://job-boards.greenhouse.io/worldquant/jobs/4655484006",
+          "updated_at": "2026-05-04T13:20:10-04:00",
+          "first_seen": "2026-06-28T15:54:16Z"
         }
       }
     },
     "airbnb": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {}
     },
     "aquatic_capital_management": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {
         "8489186002": {
           "title": "Quantitative Researcher, Intern (Summer 2027) ",
@@ -288,31 +295,38 @@
       }
     },
     "datadog": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {
         "8108241": {
           "title": "Product Management Intern",
           "location": "New York, New York, USA",
           "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
-          "updated_at": "2026-08-17T10:41:16-04:00",
+          "updated_at": "2026-08-19T16:07:00-04:00",
           "first_seen": "2026-08-18T11:24:11Z"
         },
         "8052095": {
           "title": "Software Engineering Intern (Winter)",
           "location": "Boston, Massachusetts, USA; New York, New York, USA",
           "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
-          "updated_at": "2026-08-17T10:51:43-04:00",
+          "updated_at": "2026-08-19T16:07:00-04:00",
           "first_seen": "2026-08-18T11:24:11Z"
         }
       }
     },
     "flexport": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {}
     },
     "walleye_capital": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {
+        "4705726006": {
+          "title": "Finance & Accounting Intern (Summer 2027)",
+          "location": "New York, New York",
+          "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4705726006",
+          "updated_at": "2026-08-19T11:55:28-04:00",
+          "first_seen": "2026-08-20T11:25:22Z"
+        },
         "4679184006": {
           "title": "Quantic - PhD Quantitative Researcher Intern (Summer 2027)",
           "location": "Boston, MA",
@@ -330,7 +344,7 @@
       }
     },
     "binance_us": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {
         "c23e9aa3-0daa-4170-a5a7-b03aaa031895": {
           "title": "Software Engineering Intern",
@@ -342,34 +356,34 @@
       }
     },
     "blackrock": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {}
     },
     "citi": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {}
     },
     "copart": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {
-        "/job/Boston-North-MA/Aspire-Internship_JR110580": {
-          "title": "Aspire Internship",
-          "location": "Boston North, MA",
-          "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Boston-North-MA/Aspire-Internship_JR110580",
-          "updated_at": "Posted 2 Days Ago",
-          "first_seen": "2026-08-18T11:24:11Z"
-        },
-        "/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510": {
-          "title": "Software Engineering Intern",
+        "/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631": {
+          "title": "Site Reliability Engineer Intern",
           "location": "Dallas, TX - Headquarters",
-          "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510",
-          "updated_at": "Posted 5 Days Ago",
-          "first_seen": "2026-08-15T11:18:52Z"
+          "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631",
+          "updated_at": "Posted Yesterday",
+          "first_seen": "2026-08-20T11:25:22Z"
+        },
+        "/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617": {
+          "title": "Data Engineering Intern",
+          "location": "Dallas, TX - Headquarters",
+          "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617",
+          "updated_at": "Posted Yesterday",
+          "first_seen": "2026-08-20T11:25:22Z"
         }
       }
     },
     "ellipsis_labs": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {
         "02136b22-35b1-4b3d-8bef-567c3380a849": {
           "title": "Software Engineer - 2027 Interns",
@@ -381,23 +395,23 @@
       }
     },
     "fis": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {
         "/job/CAN-TRNT-5000-Ste-900/Intern--UX-Business-Application-Designer-and-Digital-Media-Specialist_JR0308626": {
           "title": "Intern, UX Business Application Designer and Digital Media Specialist",
           "location": "CAN TRNT 5000 Ste 900",
           "url": "https://fis.wd5.myworkdayjobs.com/en-US/SearchJobs/job/CAN-TRNT-5000-Ste-900/Intern--UX-Business-Application-Designer-and-Digital-Media-Specialist_JR0308626",
-          "updated_at": "Posted 5 Days Ago",
+          "updated_at": "Posted 6 Days Ago",
           "first_seen": "2026-08-15T11:18:52Z"
         }
       }
     },
     "mastercard": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {}
     },
     "notion": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {
         "6ccbc30c-2de0-4395-af14-3641cd15961b": {
           "title": "Governance, Risk, and Compliance Intern (Fall 2026)",
@@ -419,192 +433,73 @@
           "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
           "updated_at": "2026-08-14T19:07:13.459+00:00",
           "first_seen": "2026-08-15T11:18:52Z"
+        },
+        "a67d6f2b-7c13-41d0-b36b-b2f662c9873e": {
+          "title": "Data Science Intern (Winter 2027)",
+          "location": "San Francisco, California",
+          "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
+          "updated_at": "2026-08-19T22:32:00.399+00:00",
+          "first_seen": "2026-08-20T11:25:22Z"
         }
       }
     },
     "nvidia": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {
-        "/job/Taiwan-Taipei/Artificial-Intelligence-Research-Intern---Deep-Learning_JR2023646": {
-          "title": "Artificial Intelligence Research Intern - Deep Learning",
-          "location": "Taiwan, Taipei",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Artificial-Intelligence-Research-Intern---Deep-Learning_JR2023646",
+        "/job/China-Shanghai/SWQA-Test-Development-Intern--GPU-Communications-Libraries---2027_JR2023690": {
+          "title": "SWQA Test Development Intern, GPU Communications Libraries - 2027",
+          "location": "China, Shanghai",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/SWQA-Test-Development-Intern--GPU-Communications-Libraries---2027_JR2023690",
           "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
+          "first_seen": "2026-08-20T11:25:22Z"
         },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496": {
-          "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496",
+        "/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2027_JR2023645": {
+          "title": "Software Engineering Intern, CUDA Test Development - 2027",
+          "location": "China, Shanghai",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2027_JR2023645",
           "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
+          "first_seen": "2026-08-20T11:25:22Z"
         },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489": {
-          "title": "NVIDIA 2027 Internships: Computer Architecture",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489",
+        "/job/China-Shanghai/Software-QA-Intern--Spark-Rapids----2027_JR2023655": {
+          "title": "Software QA Intern, Spark Rapids  - 2027",
+          "location": "China, Shanghai",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-QA-Intern--Spark-Rapids----2027_JR2023655",
           "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
+          "first_seen": "2026-08-20T11:25:22Z"
         },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491": {
-          "title": "NVIDIA 2027 Internships: Deep Learning Computer Architecture",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491",
+        "/job/China-Shanghai/Test-Development-Software-Engineering-Intern--Aerial---2027_JR2023852": {
+          "title": "Test Development Software Engineering Intern, Aerial - 2027",
+          "location": "China, Shanghai",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern--Aerial---2027_JR2023852",
           "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
+          "first_seen": "2026-08-20T11:25:22Z"
         },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1": {
-          "title": "NVIDIA 2027 Internships: Deep Learning",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1",
+        "/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023656": {
+          "title": "Deep Learning Software Engineering Intern, Test Development - 2027",
+          "location": "China, Shanghai",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023656",
           "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
+          "first_seen": "2026-08-20T11:25:22Z"
         },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504": {
-          "title": "NVIDIA 2027 Internships: Digital Circuit Design",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504",
+        "/job/China-Shanghai/Software-QA-Developer-Intern---2027_JR2023654": {
+          "title": "Software QA Developer Intern - 2027",
+          "location": "China, Shanghai",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-QA-Developer-Intern---2027_JR2023654",
           "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
-        },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486": {
-          "title": "NVIDIA 2027 Internships: Hardware ASIC Design",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
-        },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1": {
-          "title": "NVIDIA 2027 Internships: Hardware Design for Test (DFT)",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
-        },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1": {
-          "title": "NVIDIA 2027 Internships: Hardware Engineering",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
-        },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501": {
-          "title": "NVIDIA 2027 Internships: Hardware Physical Design / VLSI",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
-        },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500": {
-          "title": "NVIDIA 2027 Internships: Hardware Verification",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
-        },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502": {
-          "title": "NVIDIA 2027 Internships: Mixed Signal Design",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
-        },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838": {
-          "title": "NVIDIA 2027 Internships: Ph.D. Research Autonomous Vehicles",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
-        },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Architecture-and-Systems_JR2023854": {
-          "title": "NVIDIA 2027 Internships: Ph.D. Research Computer Architecture and Systems",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Architecture-and-Systems_JR2023854",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
-        },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833": {
-          "title": "NVIDIA 2027 Internships: Ph.D. Research Computer Vision and Deep Learning",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
-        },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475": {
-          "title": "NVIDIA 2027 Internships: Ph.D. Research Generative AI",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
-        },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835": {
-          "title": "NVIDIA 2027 Internships: Ph.D. Research Graphics and Simulation",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
-        },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855": {
-          "title": "NVIDIA 2027 Internships: Ph.D. Research Hardware",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
-        },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837": {
-          "title": "NVIDIA 2027 Internships: Ph.D. Research Large Language Models",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
-        },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Robotics_JR2023847": {
-          "title": "NVIDIA 2027 Internships: Ph.D. Research Robotics",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Robotics_JR2023847",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
-        },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495": {
-          "title": "NVIDIA 2027 Internships: Software Engineering",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
-        },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492": {
-          "title": "NVIDIA 2027 Internships: Systems Software Engineering",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
-        },
-        "/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856": {
-          "title": "NVIDIA 2027 Summer Internships: Ph.D. Engineering",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
-        },
-        "/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499": {
-          "title": "NVIDIA Spring 2027 Internships: Developer and Performance Technology",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-08-19T11:23:31Z"
+          "first_seen": "2026-08-20T11:25:22Z"
         }
       }
     },
     "phantom": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {}
     },
     "plaid": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {}
     },
     "polymarket": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {
         "9fbf8f68-5f92-434d-a00b-c79f99f5a10e": {
           "title": "Polymarket 2026 Summer Internship \u2014 Marketing & Finance",
@@ -616,15 +511,15 @@
       }
     },
     "rain": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {}
     },
     "raymond_james": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {}
     },
     "replit": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {
         "7e0dafe8-3eec-442e-aa76-a4d84d779fb1": {
           "title": "Software Engineering Intern (Summer 2027)",
@@ -636,7 +531,7 @@
       }
     },
     "visa": {
-      "last_checked": "2026-08-19T11:23:31Z",
+      "last_checked": "2026-08-20T11:25:22Z",
       "roles": {}
     }
   }
