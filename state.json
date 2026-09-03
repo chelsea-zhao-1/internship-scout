@@ -1,57 +1,57 @@
 {
-  "last_checked": "2026-09-02T14:58:58Z",
+  "last_checked": "2026-09-03T14:53:18Z",
   "last_status": "success",
   "sources": {
     "anduril": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {
         "5148101007": {
           "title": "2027 Electrical Engineer Intern",
           "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007",
-          "updated_at": "2026-08-24T14:07:42-04:00",
+          "updated_at": "2026-09-02T20:46:09-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
         "5153218007": {
           "title": "2027 Manufacturing Engineer Intern",
           "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007",
-          "updated_at": "2026-08-24T14:07:42-04:00",
+          "updated_at": "2026-09-02T20:46:09-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
         "5153187007": {
           "title": "2027 Mechanical Engineer Intern",
           "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007",
-          "updated_at": "2026-08-24T14:07:42-04:00",
+          "updated_at": "2026-09-02T20:46:09-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
         "5148079007": {
           "title": "2027 Software Engineer Intern",
           "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
-          "updated_at": "2026-08-24T14:07:42-04:00",
+          "updated_at": "2026-09-02T20:46:09-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
         },
         "5211102007": {
           "title": "Mechanical Engineering Intern - Summer 2026",
           "location": "Sydney, New South Wales, Australia",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211102007?gh_jid=5211102007",
-          "updated_at": "2026-09-02T05:04:34-04:00",
+          "updated_at": "2026-09-02T20:46:09-04:00",
           "first_seen": "2026-09-02T14:58:27Z"
         },
         "5170844007": {
           "title": "Naval Architect Co-op - Winter 2027",
           "location": "Costa Mesa, California, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5170844007?gh_jid=5170844007",
-          "updated_at": "2026-08-24T14:07:42-04:00",
+          "updated_at": "2026-09-02T20:46:09-04:00",
           "first_seen": "2026-07-25T12:02:17Z"
         },
         "5211077007": {
           "title": "Software Engineering Intern - Summer 2026",
           "location": "Sydney, New South Wales, Australia",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211077007?gh_jid=5211077007",
-          "updated_at": "2026-09-02T04:58:18-04:00",
+          "updated_at": "2026-09-02T20:46:09-04:00",
           "first_seen": "2026-09-02T14:58:27Z"
         }
       }
@@ -61,7 +61,7 @@
       "roles": {}
     },
     "cloudflare": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {
         "8068479": {
           "title": "EIAM Business Enablement & Operations Intern (Fall 2026) ",
@@ -69,6 +69,13 @@
           "url": "https://boards.greenhouse.io/cloudflare/jobs/8068479?gh_jid=8068479",
           "updated_at": "2026-09-01T20:49:17-04:00",
           "first_seen": "2026-08-20T11:25:22Z"
+        },
+        "8089407": {
+          "title": "Research Engineer Intern (Fall 2026)",
+          "location": "In-Office",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+          "updated_at": "2026-09-01T20:49:17-04:00",
+          "first_seen": "2026-07-30T12:28:19Z"
         },
         "8089379": {
           "title": "Research Engineer Intern (Fall 2026)",
@@ -84,12 +91,12 @@
           "updated_at": "2026-09-01T20:49:17-04:00",
           "first_seen": "2026-07-30T12:28:19Z"
         },
-        "8089407": {
-          "title": "Research Engineer Intern (Fall 2026)",
+        "8118845": {
+          "title": "Software Engineer Intern (Fall 2026)",
           "location": "In-Office",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
           "updated_at": "2026-09-01T20:49:17-04:00",
-          "first_seen": "2026-07-30T12:28:19Z"
+          "first_seen": "2026-08-11T11:43:02Z"
         },
         "8118855": {
           "title": "Software Engineer Intern (Fall 2026)",
@@ -97,13 +104,6 @@
           "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
           "updated_at": "2026-09-01T20:49:17-04:00",
           "first_seen": "2026-08-21T11:24:41Z"
-        },
-        "8118845": {
-          "title": "Software Engineer Intern (Fall 2026)",
-          "location": "In-Office",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
-          "updated_at": "2026-09-01T20:49:17-04:00",
-          "first_seen": "2026-08-11T11:43:02Z"
         },
         "8052785": {
           "title": "Software Engineer Intern (Fall 2026) - Austin, TX",
@@ -115,23 +115,23 @@
       }
     },
     "coinbase": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {}
     },
     "disney": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {}
     },
     "galaxy_digital": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {}
     },
     "jane_street": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {}
     },
     "kalshi": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {
         "5f00f02c-002e-4e93-891f-650a0c296e15": {
           "title": "Growth Politics Intern",
@@ -150,7 +150,7 @@
       }
     },
     "ramp": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {
         "67fadb77-43d8-4449-954b-d4cf2c6d3b8b": {
           "title": "Software Engineer Internship, Android ",
@@ -162,15 +162,15 @@
       }
     },
     "robinhood": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {}
     },
     "securitize": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {}
     },
     "stripe": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {
         "8130867": {
           "title": "Software Engineer, Intern",
@@ -193,12 +193,12 @@
           "updated_at": "2026-08-31T18:56:01-04:00",
           "first_seen": "2026-09-01T15:23:21Z"
         },
-        "8097801": {
+        "8130805": {
           "title": "Software Engineer, Intern (Summer or Winter)",
-          "location": "Dublin",
-          "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-          "updated_at": "2026-08-31T19:25:23-04:00",
-          "first_seen": "2026-08-18T11:24:11Z"
+          "location": "Toronto",
+          "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+          "updated_at": "2026-09-02T13:22:15-04:00",
+          "first_seen": "2026-09-01T15:23:21Z"
         },
         "8128745": {
           "title": "Software Engineer, Intern (Summer or Winter)",
@@ -207,17 +207,17 @@
           "updated_at": "2026-09-01T13:19:57-04:00",
           "first_seen": "2026-09-01T15:23:21Z"
         },
-        "8130805": {
+        "8097801": {
           "title": "Software Engineer, Intern (Summer or Winter)",
-          "location": "Toronto",
-          "url": "https://stripe.com/jobs/search?gh_jid=8130805",
-          "updated_at": "2026-08-31T19:21:48-04:00",
-          "first_seen": "2026-09-01T15:23:21Z"
+          "location": "Dublin",
+          "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+          "updated_at": "2026-08-31T19:25:23-04:00",
+          "first_seen": "2026-08-18T11:24:11Z"
         }
       }
     },
     "worldquant": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {
         "4069460006": {
           "title": "Data Science Intern",
@@ -264,11 +264,11 @@
       }
     },
     "airbnb": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {}
     },
     "aquatic_capital_management": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {
         "8489186002": {
           "title": "Quantitative Researcher, Intern (Summer 2027) ",
@@ -287,7 +287,7 @@
       }
     },
     "datadog": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {
         "8108241": {
           "title": "Product Management Intern",
@@ -306,7 +306,7 @@
       }
     },
     "flexport": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {
         "8172573": {
           "title": "Tradelane Operations Intern",
@@ -318,7 +318,7 @@
       }
     },
     "walleye_capital": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {
         "4705726006": {
           "title": "Finance & Accounting Intern (Summer 2027)",
@@ -344,7 +344,7 @@
       }
     },
     "binance_us": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {
         "c23e9aa3-0daa-4170-a5a7-b03aaa031895": {
           "title": "Software Engineering Intern",
@@ -356,34 +356,57 @@
       }
     },
     "blackrock": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {
         "/job/Edinburgh-Scotland/Veteran---Elite-Athletes-Internship-Programme---Edinburgh_R266225": {
           "title": "Veteran & Elite Athletes Internship Programme - Edinburgh",
           "location": "Edinburgh, Scotland",
           "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Edinburgh-Scotland/Veteran---Elite-Athletes-Internship-Programme---Edinburgh_R266225",
-          "updated_at": "Posted 7 Days Ago",
+          "updated_at": "Posted Yesterday",
           "first_seen": "2026-08-25T11:26:12Z"
         },
         "/job/London-Greater-London/Veteran---Elite-Athletes-Internship-Programme---London_R266224": {
           "title": "Veteran & Elite Athletes Internship Programme - London",
           "location": "London, Greater London",
           "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Veteran---Elite-Athletes-Internship-Programme---London_R266224",
-          "updated_at": "Posted 7 Days Ago",
+          "updated_at": "Posted Yesterday",
           "first_seen": "2026-08-25T11:26:12Z"
         }
       }
     },
     "citi": {
-      "last_checked": "2026-09-02T14:58:27Z",
-      "roles": {}
+      "last_checked": "2026-09-03T14:52:41Z",
+      "roles": {
+        "/job/London--United-Kingdom/Banking--Investment-Banking--Full-Time-Associate--London---United-Kingdom-2027--Applicable-for-2026-Citi-Summer-interns-only-_26992176-1": {
+          "title": "Banking, Investment Banking, Full Time Associate, London \u2013 United Kingdom 2027 (Applicable for 2026 Citi Summer interns only)",
+          "location": "London  United Kingdom",
+          "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Investment-Banking--Full-Time-Associate--London---United-Kingdom-2027--Applicable-for-2026-Citi-Summer-interns-only-_26992176-1",
+          "updated_at": "Posted Today",
+          "first_seen": "2026-09-03T14:52:41Z"
+        },
+        "/job/London--United-Kingdom/Banking--Investment-Banking--Full-Time-Analyst--London---United-Kingdom-2027----Applicable-for-2026-Citi-Summer-interns-only-_26992159": {
+          "title": "Banking, Investment Banking, Full Time Analyst, London \u2013 United Kingdom 2027 - (Applicable for 2026 Citi Summer interns only)",
+          "location": "London  United Kingdom",
+          "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Investment-Banking--Full-Time-Analyst--London---United-Kingdom-2027----Applicable-for-2026-Citi-Summer-interns-only-_26992159",
+          "updated_at": "Posted Today",
+          "first_seen": "2026-09-03T14:52:41Z"
+        }
+      }
     },
     "copart": {
-      "last_checked": "2026-09-02T14:58:27Z",
-      "roles": {}
+      "last_checked": "2026-09-03T14:52:41Z",
+      "roles": {
+        "/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173": {
+          "title": "Software Engineering Intern",
+          "location": "Dallas, TX - Headquarters",
+          "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173",
+          "updated_at": "Posted Yesterday",
+          "first_seen": "2026-09-03T14:52:41Z"
+        }
+      }
     },
     "ellipsis_labs": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {
         "02136b22-35b1-4b3d-8bef-567c3380a849": {
           "title": "Software Engineer - 2027 Interns",
@@ -395,15 +418,15 @@
       }
     },
     "fis": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {}
     },
     "mastercard": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {}
     },
     "notion": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {
         "e66c6658-9e65-4c58-8db2-844628b6e8f8": {
           "title": "Software Engineer Intern (Winter 2027)",
@@ -429,19 +452,19 @@
       }
     },
     "nvidia": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {}
     },
     "phantom": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {}
     },
     "plaid": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {}
     },
     "polymarket": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {
         "9fbf8f68-5f92-434d-a00b-c79f99f5a10e": {
           "title": "Polymarket 2026 Summer Internship \u2014 Marketing & Finance",
@@ -453,27 +476,27 @@
       }
     },
     "rain": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {}
     },
     "raymond_james": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {
         "/job/PA---Philadelphia---1650-Market-Street-Floor-53/XMLNAME-2027-Clark-Capital-Mentoring-Internship-Program_R-0012697": {
           "title": "2027 Clark Capital Mentoring/Internship Program",
           "location": "Unknown",
           "url": "https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/PA---Philadelphia---1650-Market-Street-Floor-53/XMLNAME-2027-Clark-Capital-Mentoring-Internship-Program_R-0012697",
-          "updated_at": "Posted 9 Days Ago",
+          "updated_at": "Posted 10 Days Ago",
           "first_seen": "2026-08-25T11:26:12Z"
         }
       }
     },
     "replit": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {}
     },
     "visa": {
-      "last_checked": "2026-09-02T14:58:27Z",
+      "last_checked": "2026-09-03T14:52:41Z",
       "roles": {}
     }
   }
