@@ -1,9 +1,9 @@
 {
-  "last_checked": "2026-09-07T16:17:42Z",
+  "last_checked": "2026-09-08T14:54:40Z",
   "last_status": "success",
   "sources": {
     "anduril": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {
         "5211102007": {
           "title": "2026 Mechanical Engineering Intern",
@@ -68,7 +68,7 @@
       "roles": {}
     },
     "cloudflare": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {
         "8068479": {
           "title": "EIAM Business Enablement & Operations Intern (Fall 2026) ",
@@ -101,23 +101,23 @@
       }
     },
     "coinbase": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {}
     },
     "disney": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {}
     },
     "galaxy_digital": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {}
     },
     "jane_street": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {}
     },
     "kalshi": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {
         "5f00f02c-002e-4e93-891f-650a0c296e15": {
           "title": "Growth Politics Intern",
@@ -136,20 +136,27 @@
       }
     },
     "ramp": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {}
     },
     "robinhood": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {}
     },
     "securitize": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {}
     },
     "stripe": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {
+        "8031833": {
+          "title": "Software Engineer, Intern",
+          "location": "Bengaluru",
+          "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+          "updated_at": "2026-09-04T14:12:07-04:00",
+          "first_seen": "2026-07-22T19:46:45Z"
+        },
         "8130867": {
           "title": "Software Engineer, Intern",
           "location": "London",
@@ -164,17 +171,17 @@
           "updated_at": "2026-09-07T01:44:20-04:00",
           "first_seen": "2026-09-07T16:17:14Z"
         },
-        "8031833": {
-          "title": "Software Engineer, Intern",
-          "location": "Bengaluru",
-          "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-          "updated_at": "2026-09-04T14:12:07-04:00",
-          "first_seen": "2026-07-22T19:46:45Z"
-        },
         "8130807": {
           "title": "Software Engineer, Intern ",
           "location": "Bucharest",
           "url": "https://stripe.com/jobs/search?gh_jid=8130807",
+          "updated_at": "2026-09-04T14:12:15-04:00",
+          "first_seen": "2026-09-01T15:23:21Z"
+        },
+        "8128745": {
+          "title": "Software Engineer, Intern (Summer or Winter)",
+          "location": "San Francisco, Seattle, New York City",
+          "url": "https://stripe.com/jobs/search?gh_jid=8128745",
           "updated_at": "2026-09-04T14:12:15-04:00",
           "first_seen": "2026-09-01T15:23:21Z"
         },
@@ -184,13 +191,6 @@
           "url": "https://stripe.com/jobs/search?gh_jid=8097801",
           "updated_at": "2026-09-04T14:12:12-04:00",
           "first_seen": "2026-08-18T11:24:11Z"
-        },
-        "8128745": {
-          "title": "Software Engineer, Intern (Summer or Winter)",
-          "location": "San Francisco, Seattle, New York City",
-          "url": "https://stripe.com/jobs/search?gh_jid=8128745",
-          "updated_at": "2026-09-04T14:12:15-04:00",
-          "first_seen": "2026-09-01T15:23:21Z"
         },
         "8130805": {
           "title": "Software Engineer, Intern (Summer or Winter)",
@@ -202,7 +202,7 @@
       }
     },
     "worldquant": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {
         "4069460006": {
           "title": "Data Science Intern",
@@ -256,11 +256,11 @@
       }
     },
     "airbnb": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {}
     },
     "aquatic_capital_management": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {
         "8489186002": {
           "title": "Quantitative Researcher, Intern (Summer 2027) ",
@@ -279,14 +279,56 @@
       }
     },
     "datadog": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {
+        "8181440": {
+          "title": "Applied Science Intern",
+          "location": "Paris, France",
+          "url": "https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440",
+          "updated_at": "2026-09-08T10:52:23-04:00",
+          "first_seen": "2026-09-08T14:54:08Z"
+        },
+        "8129799": {
+          "title": "IT Support Technician Intern",
+          "location": "Paris, France",
+          "url": "https://careers.datadoghq.com/detail/8129799/?gh_jid=8129799",
+          "updated_at": "2026-09-08T09:55:53-04:00",
+          "first_seen": "2026-09-08T14:54:08Z"
+        },
+        "8143729": {
+          "title": "Product Management Intern",
+          "location": "Paris, France",
+          "url": "https://careers.datadoghq.com/detail/8143729/?gh_jid=8143729",
+          "updated_at": "2026-09-08T09:57:39-04:00",
+          "first_seen": "2026-09-08T14:54:08Z"
+        },
         "8108241": {
           "title": "Product Management Intern",
           "location": "New York, New York, USA",
           "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
           "updated_at": "2026-09-02T10:22:15-04:00",
           "first_seen": "2026-08-18T11:24:11Z"
+        },
+        "8114186": {
+          "title": "Software Engineering Intern",
+          "location": "Paris, France",
+          "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+          "updated_at": "2026-09-08T10:06:46-04:00",
+          "first_seen": "2026-09-08T14:54:08Z"
+        },
+        "8114161": {
+          "title": "Software Engineering Intern",
+          "location": "Madrid, Spain",
+          "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+          "updated_at": "2026-09-08T10:04:29-04:00",
+          "first_seen": "2026-09-08T14:54:08Z"
+        },
+        "8052118": {
+          "title": "Software Engineering Intern (Summer)",
+          "location": "Boston, Massachusetts, USA; New York, New York, USA",
+          "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+          "updated_at": "2026-09-08T10:33:47-04:00",
+          "first_seen": "2026-09-08T14:54:08Z"
         },
         "8052095": {
           "title": "Software Engineering Intern (Winter)",
@@ -298,7 +340,7 @@
       }
     },
     "flexport": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {
         "8172573": {
           "title": "Tradelane Operations Intern",
@@ -310,7 +352,7 @@
       }
     },
     "walleye_capital": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {
         "4705726006": {
           "title": "Finance & Accounting Intern (Summer 2027)",
@@ -336,7 +378,7 @@
       }
     },
     "binance_us": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {
         "c23e9aa3-0daa-4170-a5a7-b03aaa031895": {
           "title": "Software Engineering Intern",
@@ -348,64 +390,42 @@
       }
     },
     "blackrock": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {
         "/job/Edinburgh-Scotland/Veteran---Elite-Athletes-Internship-Programme---Edinburgh_R266225": {
           "title": "Veteran & Elite Athletes Internship Programme - Edinburgh",
           "location": "Edinburgh, Scotland",
           "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Edinburgh-Scotland/Veteran---Elite-Athletes-Internship-Programme---Edinburgh_R266225",
-          "updated_at": "Posted 5 Days Ago",
+          "updated_at": "Posted 6 Days Ago",
           "first_seen": "2026-08-25T11:26:12Z"
         },
         "/job/London-Greater-London/Veteran---Elite-Athletes-Internship-Programme---London_R266224": {
           "title": "Veteran & Elite Athletes Internship Programme - London",
           "location": "London, Greater London",
           "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Veteran---Elite-Athletes-Internship-Programme---London_R266224",
-          "updated_at": "Posted 5 Days Ago",
+          "updated_at": "Posted 6 Days Ago",
           "first_seen": "2026-08-25T11:26:12Z"
         }
       }
     },
     "citi": {
-      "last_checked": "2026-09-07T16:17:14Z",
-      "roles": {
-        "/job/Zurich--Switzerland/Banking--Corporate-Banking--Full-Time-Analyst--Zurich---Switzerland--2027--applicable-for-2026-Citi-Summer-Interns-Only-_26991709": {
-          "title": "Banking, Corporate Banking, Full Time Analyst, Zurich - Switzerland, 2027 (applicable for 2026 Citi Summer Interns Only)",
-          "location": "Zurich  Switzerland",
-          "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Zurich--Switzerland/Banking--Corporate-Banking--Full-Time-Analyst--Zurich---Switzerland--2027--applicable-for-2026-Citi-Summer-Interns-Only-_26991709",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-09-07T16:17:14Z"
-        },
-        "/job/Paris--France/Banking--Financing--Debt-Capital-Markets--Placement-Analyst-Internship--Paris---France-2027_26992465": {
-          "title": "Banking, Financing, Debt Capital Markets, Placement Analyst Internship, Paris - France 2027",
-          "location": "Paris  France",
-          "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Financing--Debt-Capital-Markets--Placement-Analyst-Internship--Paris---France-2027_26992465",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-09-07T16:17:14Z"
-        },
-        "/job/Paris--France/Banking--Financing--Equity-Capital-Markets--Placement-Analyst-Internship--Paris---France-2027_26992452": {
-          "title": "Banking, Financing, Equity Capital Markets, Placement Analyst Internship, Paris - France 2027",
-          "location": "Paris  France",
-          "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Financing--Equity-Capital-Markets--Placement-Analyst-Internship--Paris---France-2027_26992452",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-09-07T16:17:14Z"
-        }
-      }
+      "last_checked": "2026-09-08T14:54:08Z",
+      "roles": {}
     },
     "copart": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {
         "/job/Dallas-TX---Headquarters/SDET-Intern_JR111190": {
           "title": "SDET Intern",
           "location": "Dallas, TX - Headquarters",
           "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/SDET-Intern_JR111190",
-          "updated_at": "Posted 3 Days Ago",
+          "updated_at": "Posted 4 Days Ago",
           "first_seen": "2026-09-05T13:40:24Z"
         }
       }
     },
     "ellipsis_labs": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {
         "02136b22-35b1-4b3d-8bef-567c3380a849": {
           "title": "Software Engineer - 2027 Interns",
@@ -417,15 +437,23 @@
       }
     },
     "fis": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {}
     },
     "mastercard": {
-      "last_checked": "2026-09-07T16:17:14Z",
-      "roles": {}
+      "last_checked": "2026-09-08T14:54:08Z",
+      "roles": {
+        "/job/New-York-City-New-York/Sales-Analyst-Intern--Summer-2027---New-York--US_R-287605-1": {
+          "title": "Sales Analyst Intern, Summer 2027 - New York, US",
+          "location": "2 Locations",
+          "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/New-York-City-New-York/Sales-Analyst-Intern--Summer-2027---New-York--US_R-287605-1",
+          "updated_at": "Posted Today",
+          "first_seen": "2026-09-08T14:54:08Z"
+        }
+      }
     },
     "notion": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {
         "e66c6658-9e65-4c58-8db2-844628b6e8f8": {
           "title": "Software Engineer Intern (Winter 2027)",
@@ -451,27 +479,19 @@
       }
     },
     "nvidia": {
-      "last_checked": "2026-09-07T16:17:14Z",
-      "roles": {
-        "/job/China-Shanghai/Circuit-Validation-Engineer-Intern---2027_JR2024949": {
-          "title": "Circuit Validation Engineer Intern - 2027",
-          "location": "China, Shanghai",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Circuit-Validation-Engineer-Intern---2027_JR2024949",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-09-07T16:17:14Z"
-        }
-      }
+      "last_checked": "2026-09-08T14:54:08Z",
+      "roles": {}
     },
     "phantom": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {}
     },
     "plaid": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {}
     },
     "polymarket": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {
         "9fbf8f68-5f92-434d-a00b-c79f99f5a10e": {
           "title": "Polymarket 2026 Summer Internship \u2014 Marketing & Finance",
@@ -483,27 +503,27 @@
       }
     },
     "rain": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {}
     },
     "raymond_james": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {
         "/job/PA---Philadelphia---1650-Market-Street-Floor-53/XMLNAME-2027-Clark-Capital-Mentoring-Internship-Program_R-0012697": {
           "title": "2027 Clark Capital Mentoring/Internship Program",
           "location": "Unknown",
           "url": "https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/PA---Philadelphia---1650-Market-Street-Floor-53/XMLNAME-2027-Clark-Capital-Mentoring-Internship-Program_R-0012697",
-          "updated_at": "Posted 14 Days Ago",
+          "updated_at": "Posted 15 Days Ago",
           "first_seen": "2026-08-25T11:26:12Z"
         }
       }
     },
     "replit": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {}
     },
     "visa": {
-      "last_checked": "2026-09-07T16:17:14Z",
+      "last_checked": "2026-09-08T14:54:08Z",
       "roles": {}
     }
   }
