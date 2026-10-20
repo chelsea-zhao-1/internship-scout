@@ -1,17 +1,10 @@
 {
-  "last_checked": "2026-10-19T17:21:14Z",
+  "last_checked": "2026-10-20T15:34:00Z",
   "last_status": "success",
   "sources": {
     "anduril": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {
-        "5261873007": {
-          "title": "2026 Electrical Engineer Intern",
-          "location": "Sydney, New South Wales, Australia",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261873007?gh_jid=5261873007",
-          "updated_at": "2026-10-13T17:44:07-04:00",
-          "first_seen": "2026-10-09T17:20:17Z"
-        },
         "5252665007": {
           "title": "2026 Guidance, Navigation & Control Engineer Intern",
           "location": "Sydney, New South Wales, Australia",
@@ -32,6 +25,13 @@
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007",
           "updated_at": "2026-10-15T18:42:12-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
+        },
+        "5268689007": {
+          "title": "2027 Field Test Engineer Intern",
+          "location": "Costa Mesa, California, United States; Quincy, Massachusetts, United States",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007",
+          "updated_at": "2026-10-19T15:14:00-04:00",
+          "first_seen": "2026-10-20T15:33:24Z"
         },
         "5265158007": {
           "title": "2027 Firmware Engineer Intern",
@@ -54,12 +54,26 @@
           "updated_at": "2026-10-15T18:43:56-04:00",
           "first_seen": "2026-10-15T15:29:58Z"
         },
+        "5268736007": {
+          "title": "2027 Guidance, Navigation, & Control Engineer Intern",
+          "location": "Costa Mesa, California, United States",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007",
+          "updated_at": "2026-10-19T15:37:17-04:00",
+          "first_seen": "2026-10-20T15:33:24Z"
+        },
         "5255593007": {
           "title": "2027 Industrial Engineer Intern",
           "location": "Ashville, Ohio, United States; Costa Mesa, California, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007",
           "updated_at": "2026-10-15T18:45:01-04:00",
           "first_seen": "2026-10-03T15:03:10Z"
+        },
+        "5268752007": {
+          "title": "2027 Low Observables Engineer Intern",
+          "location": "Costa Mesa, California, United States",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007",
+          "updated_at": "2026-10-19T15:48:33-04:00",
+          "first_seen": "2026-10-20T15:33:24Z"
         },
         "5153218007": {
           "title": "2027 Manufacturing Engineer Intern",
@@ -96,19 +110,19 @@
           "updated_at": "2026-10-15T18:50:55-04:00",
           "first_seen": "2026-10-06T17:02:43Z"
         },
-        "5255902007": {
-          "title": "2027 Software Engineer Intern",
-          "location": "London, England, United Kingdom",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007",
-          "updated_at": "2026-10-09T07:42:13-04:00",
-          "first_seen": "2026-10-07T17:40:33Z"
-        },
         "5148079007": {
           "title": "2027 Software Engineer Intern",
           "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
           "updated_at": "2026-10-15T18:52:02-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
+        },
+        "5255902007": {
+          "title": "2027 Software Engineer Intern",
+          "location": "London, England, United Kingdom",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007",
+          "updated_at": "2026-10-09T07:42:13-04:00",
+          "first_seen": "2026-10-07T17:40:33Z"
         },
         "5255827007": {
           "title": "2027 Supply Chain Intern",
@@ -123,6 +137,13 @@
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007",
           "updated_at": "2026-10-15T18:54:12-04:00",
           "first_seen": "2026-10-06T17:02:43Z"
+        },
+        "5268864007": {
+          "title": "2027 Technical Program Manager Intern",
+          "location": "Costa Mesa, California, United States; Honolulu, Hawaii, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007",
+          "updated_at": "2026-10-19T17:02:32-04:00",
+          "first_seen": "2026-10-20T15:33:24Z"
         },
         "5236565007": {
           "title": "Winter 2027 Electrical Engineer Co-op",
@@ -229,19 +250,19 @@
       "roles": {}
     },
     "cloudflare": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {
-        "8245197": {
-          "title": "Software Engineer Intern (2027)",
-          "location": "In-Office",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-          "updated_at": "2026-10-19T05:39:19-04:00",
-          "first_seen": "2026-10-06T17:02:43Z"
-        },
         "8245211": {
           "title": "Software Engineer Intern (2027)",
           "location": "In-Office",
           "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+          "updated_at": "2026-10-19T05:39:19-04:00",
+          "first_seen": "2026-10-06T17:02:43Z"
+        },
+        "8245197": {
+          "title": "Software Engineer Intern (2027)",
+          "location": "In-Office",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
           "updated_at": "2026-10-19T05:39:19-04:00",
           "first_seen": "2026-10-06T17:02:43Z"
         },
@@ -255,7 +276,7 @@
       }
     },
     "coinbase": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {
         "8175363": {
           "title": "Accelerations Programs Intern",
@@ -334,13 +355,6 @@
           "updated_at": "2026-10-13T19:51:02-04:00",
           "first_seen": "2026-10-09T17:20:17Z"
         },
-        "8175569": {
-          "title": "Institutional Operations Intern",
-          "location": "Hybrid - New York, NY",
-          "url": "https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569",
-          "updated_at": "2026-10-14T11:18:43-04:00",
-          "first_seen": "2026-09-09T15:01:12Z"
-        },
         "8221238": {
           "title": "Internal Audit Analytics Intern",
           "location": "Hybrid - New York, NY",
@@ -415,7 +429,7 @@
           "title": "Software Engineer Intern",
           "location": "Hybrid - San Francisco, CA",
           "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
-          "updated_at": "2026-09-27T01:33:48-04:00",
+          "updated_at": "2026-10-20T00:41:39-04:00",
           "first_seen": "2026-09-09T15:01:12Z"
         },
         "8175438": {
@@ -449,19 +463,19 @@
       }
     },
     "disney": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {}
     },
     "galaxy_digital": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {}
     },
     "jane_street": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {}
     },
     "kalshi": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {
         "5f00f02c-002e-4e93-891f-650a0c296e15": {
           "title": "Growth Politics Intern",
@@ -480,7 +494,7 @@
       }
     },
     "ramp": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {
         "b39ceb08-a0a7-4f8b-a760-2fb88e209956": {
           "title": "Applied Scientist Intern",
@@ -520,7 +534,7 @@
       }
     },
     "robinhood": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {
         "8198241": {
           "title": "Fraud Operations Intern (Summer 2027)",
@@ -539,11 +553,11 @@
       }
     },
     "securitize": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {}
     },
     "stripe": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {
         "8194291": {
           "title": "Data Analyst, Intern",
@@ -594,12 +608,12 @@
           "updated_at": "2026-10-07T19:02:27-04:00",
           "first_seen": "2026-10-01T17:16:38Z"
         },
-        "8130883": {
+        "8031833": {
           "title": "Software Engineer, Intern",
-          "location": "Singapore",
-          "url": "https://stripe.com/jobs/search?gh_jid=8130883",
+          "location": "Bengaluru",
+          "url": "https://stripe.com/jobs/search?gh_jid=8031833",
           "updated_at": "2026-10-07T19:02:27-04:00",
-          "first_seen": "2026-09-07T16:17:14Z"
+          "first_seen": "2026-07-22T19:46:45Z"
         },
         "8130867": {
           "title": "Software Engineer, Intern",
@@ -608,12 +622,12 @@
           "updated_at": "2026-10-07T19:02:27-04:00",
           "first_seen": "2026-09-01T15:23:21Z"
         },
-        "8031833": {
+        "8130883": {
           "title": "Software Engineer, Intern",
-          "location": "Bengaluru",
-          "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+          "location": "Singapore",
+          "url": "https://stripe.com/jobs/search?gh_jid=8130883",
           "updated_at": "2026-10-07T19:02:27-04:00",
-          "first_seen": "2026-07-22T19:46:45Z"
+          "first_seen": "2026-09-07T16:17:14Z"
         },
         "8130807": {
           "title": "Software Engineer, Intern ",
@@ -646,7 +660,7 @@
       }
     },
     "worldquant": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {
         "4069460006": {
           "title": "Data Science Intern",
@@ -672,7 +686,7 @@
       }
     },
     "airbnb": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {
         "8285171": {
           "title": "Strategic Finance & Analytics Intern (MBA)",
@@ -684,7 +698,7 @@
       }
     },
     "aquatic_capital_management": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {
         "8489186002": {
           "title": "Quantitative Researcher, Intern (Summer 2027) ",
@@ -703,7 +717,7 @@
       }
     },
     "datadog": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {
         "8181440": {
           "title": "Applied Science Intern",
@@ -719,19 +733,19 @@
           "updated_at": "2026-09-29T14:05:42-04:00",
           "first_seen": "2026-09-08T14:54:08Z"
         },
-        "8108241": {
-          "title": "Product Management Intern",
-          "location": "New York, New York, USA",
-          "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
-          "updated_at": "2026-09-29T13:18:57-04:00",
-          "first_seen": "2026-08-18T11:24:11Z"
-        },
         "8143729": {
           "title": "Product Management Intern",
           "location": "Paris, France",
           "url": "https://careers.datadoghq.com/detail/8143729/?gh_jid=8143729",
           "updated_at": "2026-09-29T13:18:57-04:00",
           "first_seen": "2026-09-08T14:54:08Z"
+        },
+        "8108241": {
+          "title": "Product Management Intern",
+          "location": "New York, New York, USA",
+          "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
+          "updated_at": "2026-09-29T13:18:57-04:00",
+          "first_seen": "2026-08-18T11:24:11Z"
         },
         "8203657": {
           "title": "Research Science Intern (PhD)",
@@ -764,11 +778,11 @@
       }
     },
     "flexport": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {}
     },
     "walleye_capital": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {
         "4676334006": {
           "title": "Equity Volatility Quant Researcher Intern (Summer 2027)",
@@ -801,17 +815,17 @@
       }
     },
     "binance_us": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {}
     },
     "blackrock": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {
         "/job/Edinburgh-Scotland/Veteran---Elite-Athletes-Internship-Programme---Edinburgh_R266225": {
           "title": "Veteran & Elite Athletes Internship Programme - Edinburgh",
           "location": "Edinburgh, Scotland",
           "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Edinburgh-Scotland/Veteran---Elite-Athletes-Internship-Programme---Edinburgh_R266225",
-          "updated_at": "Posted 18 Days Ago",
+          "updated_at": "Posted 19 Days Ago",
           "first_seen": "2026-08-25T11:26:12Z"
         },
         "/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Research---Markets-Advisory---New-York_R266467": {
@@ -908,15 +922,15 @@
       }
     },
     "citi": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {}
     },
     "copart": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {}
     },
     "ellipsis_labs": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {
         "02136b22-35b1-4b3d-8bef-567c3380a849": {
           "title": "Software Engineer - 2027 Interns",
@@ -928,41 +942,41 @@
       }
     },
     "fis": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {
         "/job/US-FL-JAX-347/Intern--Marketing--FIS-University-Program_JR0309611": {
           "title": "Marketing Intern Pipeline",
           "location": "3 Locations",
           "url": "https://fis.wd5.myworkdayjobs.com/en-US/SearchJobs/job/US-FL-JAX-347/Intern--Marketing--FIS-University-Program_JR0309611",
-          "updated_at": "Posted 19 Days Ago",
+          "updated_at": "Posted 20 Days Ago",
           "first_seen": "2026-09-18T14:47:43Z"
         },
         "/job/US-FL-JAX-347/Intern--People-Office--FIS-University-Program_JR0309698": {
           "title": "People Office Intern Pipeline",
           "location": "3 Locations",
           "url": "https://fis.wd5.myworkdayjobs.com/en-US/SearchJobs/job/US-FL-JAX-347/Intern--People-Office--FIS-University-Program_JR0309698",
-          "updated_at": "Posted 19 Days Ago",
+          "updated_at": "Posted 20 Days Ago",
           "first_seen": "2026-09-18T14:47:43Z"
         },
         "/job/US-FL-JAX-347/Intern--Legal-and-Compliance--FIS-University-Program_JR0309694": {
           "title": "Legal and Compliance Intern Pipeline",
           "location": "3 Locations",
           "url": "https://fis.wd5.myworkdayjobs.com/en-US/SearchJobs/job/US-FL-JAX-347/Intern--Legal-and-Compliance--FIS-University-Program_JR0309694",
-          "updated_at": "Posted 20 Days Ago",
+          "updated_at": "Posted 21 Days Ago",
           "first_seen": "2026-09-18T14:47:43Z"
         },
         "/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512": {
           "title": "Software Engineering Intern Pipeline",
           "location": "3 Locations",
           "url": "https://fis.wd5.myworkdayjobs.com/en-US/SearchJobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512",
-          "updated_at": "Posted 21 Days Ago",
+          "updated_at": "Posted 22 Days Ago",
           "first_seen": "2026-09-18T14:47:43Z"
         },
         "/job/US-FL-JAX-347/Intern--Sales--FIS-University-Program_JR0309515": {
           "title": "Intern, Sales, FIS University Program",
           "location": "3 Locations",
           "url": "https://fis.wd5.myworkdayjobs.com/en-US/SearchJobs/job/US-FL-JAX-347/Intern--Sales--FIS-University-Program_JR0309515",
-          "updated_at": "Posted 27 Days Ago",
+          "updated_at": "Posted 28 Days Ago",
           "first_seen": "2026-09-18T14:47:43Z"
         },
         "/job/US-FL-JAX-347/Intern--Risk-and-Cybersecurity--FIS-University-Program_JR0309680": {
@@ -982,11 +996,19 @@
       }
     },
     "mastercard": {
-      "last_checked": "2026-10-19T17:20:10Z",
-      "roles": {}
+      "last_checked": "2026-10-20T15:33:24Z",
+      "roles": {
+        "/job/Lisbon-Portugal/Product-Management-Intern--Summer-2027---Lisbon--Portugal_R-287709": {
+          "title": "Product Management Intern, Summer 2027 - Lisbon, Portugal",
+          "location": "Lisbon, Portugal",
+          "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Lisbon-Portugal/Product-Management-Intern--Summer-2027---Lisbon--Portugal_R-287709",
+          "updated_at": "Posted Today",
+          "first_seen": "2026-10-20T15:33:24Z"
+        }
+      }
     },
     "notion": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {
         "e66c6658-9e65-4c58-8db2-844628b6e8f8": {
           "title": "Software Engineer Intern (Winter 2027)",
@@ -1012,81 +1034,46 @@
       }
     },
     "nvidia": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {
-        "/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707": {
-          "title": "Product Manager MBA Intern, Enterprise AI - Summer 2027",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707",
+        "/job/Poland-Warsaw/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2027377": {
+          "title": "GenAI Algorithms Intern \u2013 Model Optimization for Inference",
+          "location": "2 Locations",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2027377",
           "updated_at": "Posted Today",
-          "first_seen": "2026-10-19T17:20:10Z"
+          "first_seen": "2026-10-20T15:33:24Z"
         },
-        "/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2027707": {
-          "title": "Software Engineering Intern, Test Development - 2027",
-          "location": "China, Shanghai",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2027707",
+        "/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210": {
+          "title": "Developer Technology Engineering Intern - Compute Performance",
+          "location": "3 Locations",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210",
           "updated_at": "Posted Today",
-          "first_seen": "2026-10-19T17:20:10Z"
-        },
-        "/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027476": {
-          "title": "Software Engineering Intern, AI Agent Test Development - 2027",
-          "location": "China, Shanghai",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027476",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-10-19T17:20:10Z"
-        },
-        "/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027478": {
-          "title": "Software Engineering Intern, AI Agent Test Development - 2027",
-          "location": "China, Shanghai",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027478",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-10-19T17:20:10Z"
-        },
-        "/job/China-Shanghai/Software-Engineer-Intern--Robotics---2027_JR2027630": {
-          "title": "Software Engineer Intern, Robotics - 2027",
-          "location": "China, Shanghai",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--Robotics---2027_JR2027630",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-10-19T17:20:10Z"
-        },
-        "/job/China-Shanghai/ASIC-TOP-Floorplan-Intern--2027_JR2027469": {
-          "title": "ASIC TOP Floorplan Intern, 2027",
-          "location": "China, Shanghai",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-TOP-Floorplan-Intern--2027_JR2027469",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-10-19T17:20:10Z"
-        },
-        "/job/China-Shanghai/AI-Developer-Intern---Interconnect-Hardware-Frontend--2027_JR2027468": {
-          "title": "AI Developer Intern \u2014 Interconnect Hardware Frontend, 2027",
-          "location": "China, Shanghai",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Intern---Interconnect-Hardware-Frontend--2027_JR2027468",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-10-19T17:20:10Z"
+          "first_seen": "2026-10-20T15:33:24Z"
         }
       }
     },
     "phantom": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {}
     },
     "plaid": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {}
     },
     "polymarket": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {}
     },
     "rain": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {}
     },
     "raymond_james": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {}
     },
     "replit": {
-      "last_checked": "2026-10-19T17:20:10Z",
+      "last_checked": "2026-10-20T15:33:24Z",
       "roles": {
         "7c3c9d29-cec2-4367-8564-eadaed165aea": {
           "title": "Software Engineering Intern \u2013 Winter 2027 ",
@@ -1098,16 +1085,8 @@
       }
     },
     "visa": {
-      "last_checked": "2026-10-19T17:20:10Z",
-      "roles": {
-        "/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1": {
-          "title": "Data Science Intern",
-          "location": "GB - London, United Kingdom",
-          "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-10-19T17:20:10Z"
-        }
-      }
+      "last_checked": "2026-10-20T15:33:24Z",
+      "roles": {}
     }
   }
 }
