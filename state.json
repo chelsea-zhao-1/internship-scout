@@ -1,9 +1,9 @@
 {
-  "last_checked": "2026-10-24T14:16:09Z",
+  "last_checked": "2026-10-25T14:50:33Z",
   "last_status": "success",
   "sources": {
     "anduril": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {
         "5271672007": {
           "title": "2027 Business Operations Engineer Intern",
@@ -131,19 +131,19 @@
           "updated_at": "2026-10-23T19:21:47-04:00",
           "first_seen": "2026-10-06T17:02:43Z"
         },
-        "5255902007": {
-          "title": "2027 Software Engineer Intern",
-          "location": "London, England, United Kingdom",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007",
-          "updated_at": "2026-10-23T19:21:47-04:00",
-          "first_seen": "2026-10-07T17:40:33Z"
-        },
         "5148079007": {
           "title": "2027 Software Engineer Intern",
           "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
           "updated_at": "2026-10-23T19:21:47-04:00",
           "first_seen": "2026-06-28T15:54:16Z"
+        },
+        "5255902007": {
+          "title": "2027 Software Engineer Intern",
+          "location": "London, England, United Kingdom",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007",
+          "updated_at": "2026-10-23T19:21:47-04:00",
+          "first_seen": "2026-10-07T17:40:33Z"
         },
         "5255827007": {
           "title": "2027 Supply Chain Intern",
@@ -285,7 +285,7 @@
       "roles": {}
     },
     "cloudflare": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {
         "8245211": {
           "title": "Software Engineer Intern (2027)",
@@ -311,7 +311,7 @@
       }
     },
     "coinbase": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {
         "8175363": {
           "title": "Accelerations Programs Intern",
@@ -505,19 +505,19 @@
       }
     },
     "disney": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {}
     },
     "galaxy_digital": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {}
     },
     "jane_street": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {}
     },
     "kalshi": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {
         "5f00f02c-002e-4e93-891f-650a0c296e15": {
           "title": "Growth Politics Intern",
@@ -536,7 +536,7 @@
       }
     },
     "ramp": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {
         "b39ceb08-a0a7-4f8b-a760-2fb88e209956": {
           "title": "Applied Scientist Intern",
@@ -576,7 +576,7 @@
       }
     },
     "robinhood": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {
         "8198241": {
           "title": "Fraud Operations Intern (Summer 2027)",
@@ -595,11 +595,11 @@
       }
     },
     "securitize": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {}
     },
     "stripe": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {
         "8194291": {
           "title": "Data Analyst, Intern",
@@ -702,7 +702,7 @@
       }
     },
     "worldquant": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {
         "4069460006": {
           "title": "Data Science Intern",
@@ -728,7 +728,7 @@
       }
     },
     "airbnb": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {
         "8285171": {
           "title": "Strategic Finance & Analytics Intern (MBA)",
@@ -740,7 +740,7 @@
       }
     },
     "aquatic_capital_management": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {
         "8489186002": {
           "title": "Quantitative Researcher, Intern (Summer 2027) ",
@@ -759,7 +759,7 @@
       }
     },
     "datadog": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {
         "8181440": {
           "title": "Applied Science Intern",
@@ -813,11 +813,11 @@
       }
     },
     "flexport": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {}
     },
     "walleye_capital": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {
         "4676334006": {
           "title": "Equity Volatility Quant Researcher Intern (Summer 2027)",
@@ -850,17 +850,17 @@
       }
     },
     "binance_us": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {}
     },
     "blackrock": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {
         "/job/Edinburgh-Scotland/Veteran---Elite-Athletes-Internship-Programme---Edinburgh_R266225": {
           "title": "Veteran & Elite Athletes Internship Programme - Edinburgh",
           "location": "Edinburgh, Scotland",
           "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Edinburgh-Scotland/Veteran---Elite-Athletes-Internship-Programme---Edinburgh_R266225",
-          "updated_at": "Posted 23 Days Ago",
+          "updated_at": "Posted 24 Days Ago",
           "first_seen": "2026-08-25T11:26:12Z"
         },
         "/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465": {
@@ -950,37 +950,37 @@
       }
     },
     "citi": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {}
     },
     "copart": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {
         "/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111861": {
           "title": "Software Engineering Intern",
           "location": "Dallas, TX - Headquarters",
           "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111861",
-          "updated_at": "Posted Yesterday",
+          "updated_at": "Posted 2 Days Ago",
           "first_seen": "2026-10-23T15:38:33Z"
         },
         "/job/Dallas-TX---Headquarters/SDET-Intern_JR112006": {
           "title": "SDET Intern",
           "location": "Dallas, TX - Headquarters",
           "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/SDET-Intern_JR112006",
-          "updated_at": "Posted 2 Days Ago",
+          "updated_at": "Posted 3 Days Ago",
           "first_seen": "2026-10-23T15:38:33Z"
         },
         "/job/Dallas-TX---Headquarters/QA-Engineer-Intern_JR112005": {
           "title": "QA Engineer Intern",
           "location": "Dallas, TX - Headquarters",
           "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/QA-Engineer-Intern_JR112005",
-          "updated_at": "Posted 2 Days Ago",
+          "updated_at": "Posted 3 Days Ago",
           "first_seen": "2026-10-23T15:38:33Z"
         }
       }
     },
     "ellipsis_labs": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {
         "02136b22-35b1-4b3d-8bef-567c3380a849": {
           "title": "Software Engineer - 2027 Interns",
@@ -992,7 +992,7 @@
       }
     },
     "fis": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {
         "/job/US-FL-JAX-347/Intern--Financial-Analyst--Summer-FIS-University-Program-2027_JR0309330": {
           "title": "Intern, Financial Analyst, FIS University Program",
@@ -1004,11 +1004,11 @@
       }
     },
     "mastercard": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {}
     },
     "notion": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {
         "e66c6658-9e65-4c58-8db2-844628b6e8f8": {
           "title": "Software Engineer Intern (Winter 2027)",
@@ -1034,46 +1034,31 @@
       }
     },
     "nvidia": {
-      "last_checked": "2026-10-24T14:15:38Z",
-      "roles": {
-        "/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---2027_JR2028499": {
-          "title": "Research Intern, Robotics - 2027",
-          "location": "Singapore, Pasir Panjang",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---2027_JR2028499",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-10-24T14:15:38Z"
-        },
-        "/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---NVIDIA-Research_JR2028498": {
-          "title": "Research Intern, Robotics \u2014 NVIDIA Research",
-          "location": "Singapore, Pasir Panjang",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---NVIDIA-Research_JR2028498",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-10-24T14:15:38Z"
-        }
-      }
+      "last_checked": "2026-10-25T14:50:03Z",
+      "roles": {}
     },
     "phantom": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {}
     },
     "plaid": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {}
     },
     "polymarket": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {}
     },
     "rain": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {}
     },
     "raymond_james": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {}
     },
     "replit": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {
         "7c3c9d29-cec2-4367-8564-eadaed165aea": {
           "title": "Software Engineering Intern \u2013 Winter 2027 ",
@@ -1085,7 +1070,7 @@
       }
     },
     "visa": {
-      "last_checked": "2026-10-24T14:15:38Z",
+      "last_checked": "2026-10-25T14:50:03Z",
       "roles": {}
     }
   }
