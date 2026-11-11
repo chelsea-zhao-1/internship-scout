@@ -1,9 +1,9 @@
 {
-  "last_checked": "2026-11-10T18:29:13Z",
+  "last_checked": "2026-11-11T18:23:53Z",
   "last_status": "success",
   "sources": {
     "anduril": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {
         "5271672007": {
           "title": "2027 Business Operations Engineer Intern",
@@ -44,7 +44,7 @@
           "title": "2027 Finance Data Analyst Intern",
           "location": "Costa Mesa, California, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007",
-          "updated_at": "2026-11-02T16:27:19-05:00",
+          "updated_at": "2026-11-10T14:52:35-05:00",
           "first_seen": "2026-10-21T15:49:46Z"
         },
         "5265158007": {
@@ -109,6 +109,13 @@
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007",
           "updated_at": "2026-11-02T16:27:19-05:00",
           "first_seen": "2026-06-28T15:54:16Z"
+        },
+        "5291546007": {
+          "title": "2027 Optical Payload Engineer Intern",
+          "location": "Costa Mesa, California, United States",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007",
+          "updated_at": "2026-11-10T16:46:19-05:00",
+          "first_seen": "2026-11-11T18:23:23Z"
         },
         "5265097007": {
           "title": "2027 Product Designer Intern",
@@ -285,7 +292,7 @@
       "roles": {}
     },
     "cloudflare": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {
         "8350166": {
           "title": "People Team Intern, HR Transformation (Winter 2027)",
@@ -339,7 +346,7 @@
       }
     },
     "coinbase": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {
         "8175363": {
           "title": "Acceleration Programs Intern",
@@ -381,13 +388,6 @@
           "location": "Hybrid - New York, NY",
           "url": "https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369",
           "updated_at": "2026-10-30T10:57:05-04:00",
-          "first_seen": "2026-09-09T15:01:12Z"
-        },
-        "8175435": {
-          "title": "Crypto Inventory Operations Intern",
-          "location": "Hybrid - New York, NY",
-          "url": "https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435",
-          "updated_at": "2026-11-10T13:03:22-05:00",
           "first_seen": "2026-09-09T15:01:12Z"
         },
         "8175459": {
@@ -509,6 +509,13 @@
           "updated_at": "2026-10-20T00:41:39-04:00",
           "first_seen": "2026-09-09T15:01:12Z"
         },
+        "8376084": {
+          "title": "Strategic Sourcing Intern",
+          "location": "Hybrid - New York, NY",
+          "url": "https://www.coinbase.com/careers/positions/8376084?gh_jid=8376084",
+          "updated_at": "2026-11-10T21:25:49-05:00",
+          "first_seen": "2026-11-11T18:23:23Z"
+        },
         "8221241": {
           "title": "Tax Information Reporting Intern",
           "location": "Hybrid - New York, NY",
@@ -526,23 +533,23 @@
       }
     },
     "disney": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {}
     },
     "galaxy_digital": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {}
     },
     "jane_street": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {}
     },
     "kalshi": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {}
     },
     "ramp": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {
         "b39ceb08-a0a7-4f8b-a760-2fb88e209956": {
           "title": "Applied Scientist Intern",
@@ -582,7 +589,7 @@
       }
     },
     "robinhood": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {
         "8198241": {
           "title": "Fraud Operations Intern (Summer 2027)",
@@ -597,15 +604,22 @@
           "url": "https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187",
           "updated_at": "2026-10-13T12:00:53-04:00",
           "first_seen": "2026-09-14T16:47:22Z"
+        },
+        "8197614": {
+          "title": "People Partner Intern (Summer 2027)",
+          "location": "New York, NY",
+          "url": "https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src=&gh_jid=8197614",
+          "updated_at": "2026-11-10T18:59:08-05:00",
+          "first_seen": "2026-11-11T18:23:23Z"
         }
       }
     },
     "securitize": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {}
     },
     "stripe": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {
         "8357739": {
           "title": "Controllership Intern",
@@ -614,17 +628,17 @@
           "updated_at": "2026-11-06T14:05:05-05:00",
           "first_seen": "2026-11-07T16:44:53Z"
         },
-        "8194291": {
-          "title": "Data Analyst, Intern",
-          "location": "New York, Seattle, South San Francisco HQ",
-          "url": "https://stripe.com/jobs/search?gh_jid=8194291",
-          "updated_at": "2026-10-29T10:42:09-04:00",
-          "first_seen": "2026-10-01T17:16:38Z"
-        },
         "8194287": {
           "title": "Data Analyst, Intern",
           "location": "Toronto",
           "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+          "updated_at": "2026-10-29T10:42:09-04:00",
+          "first_seen": "2026-10-01T17:16:38Z"
+        },
+        "8194291": {
+          "title": "Data Analyst, Intern",
+          "location": "New York, Seattle, South San Francisco HQ",
+          "url": "https://stripe.com/jobs/search?gh_jid=8194291",
           "updated_at": "2026-10-29T10:42:09-04:00",
           "first_seen": "2026-10-01T17:16:38Z"
         },
@@ -670,12 +684,12 @@
           "updated_at": "2026-10-29T10:42:09-04:00",
           "first_seen": "2026-10-01T17:16:38Z"
         },
-        "8328664": {
-          "title": "PhD Machine Learning Engineer, Intern",
-          "location": "Toronto",
-          "url": "https://stripe.com/jobs/search?gh_jid=8328664",
-          "updated_at": "2026-10-30T16:24:17-04:00",
-          "first_seen": "2026-10-30T16:56:44Z"
+        "8194283": {
+          "title": "PhD Data Scientist, Intern",
+          "location": "New York, Seattle, South San Francisco HQ",
+          "url": "https://stripe.com/jobs/search?gh_jid=8194283",
+          "updated_at": "2026-11-10T17:40:57-05:00",
+          "first_seen": "2026-11-11T18:23:23Z"
         },
         "8328662": {
           "title": "PhD Machine Learning Engineer, Intern",
@@ -684,12 +698,12 @@
           "updated_at": "2026-10-30T12:19:28-04:00",
           "first_seen": "2026-10-30T16:56:44Z"
         },
-        "8332683": {
-          "title": "Product Design Intern",
+        "8328664": {
+          "title": "PhD Machine Learning Engineer, Intern",
           "location": "Toronto",
-          "url": "https://stripe.com/jobs/search?gh_jid=8332683",
-          "updated_at": "2026-11-05T19:04:45-05:00",
-          "first_seen": "2026-11-06T17:48:29Z"
+          "url": "https://stripe.com/jobs/search?gh_jid=8328664",
+          "updated_at": "2026-10-30T16:24:17-04:00",
+          "first_seen": "2026-10-30T16:56:44Z"
         },
         "8332681": {
           "title": "Product Design Intern",
@@ -698,12 +712,19 @@
           "updated_at": "2026-11-05T21:23:55-05:00",
           "first_seen": "2026-11-06T17:48:29Z"
         },
-        "8031833": {
+        "8332683": {
+          "title": "Product Design Intern",
+          "location": "Toronto",
+          "url": "https://stripe.com/jobs/search?gh_jid=8332683",
+          "updated_at": "2026-11-05T19:04:45-05:00",
+          "first_seen": "2026-11-06T17:48:29Z"
+        },
+        "8130867": {
           "title": "Software Engineer, Intern",
-          "location": "Bengaluru",
-          "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+          "location": "London",
+          "url": "https://stripe.com/jobs/search?gh_jid=8130867",
           "updated_at": "2026-10-29T10:42:09-04:00",
-          "first_seen": "2026-07-22T19:46:45Z"
+          "first_seen": "2026-09-01T15:23:21Z"
         },
         "8130883": {
           "title": "Software Engineer, Intern",
@@ -712,12 +733,12 @@
           "updated_at": "2026-10-29T10:42:09-04:00",
           "first_seen": "2026-09-07T16:17:14Z"
         },
-        "8130867": {
+        "8031833": {
           "title": "Software Engineer, Intern",
-          "location": "London",
-          "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+          "location": "Bengaluru",
+          "url": "https://stripe.com/jobs/search?gh_jid=8031833",
           "updated_at": "2026-10-29T10:42:09-04:00",
-          "first_seen": "2026-09-01T15:23:21Z"
+          "first_seen": "2026-07-22T19:46:45Z"
         },
         "8130807": {
           "title": "Software Engineer, Intern ",
@@ -750,7 +771,7 @@
       }
     },
     "worldquant": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {
         "4069460006": {
           "title": "Data Science Intern",
@@ -769,11 +790,61 @@
       }
     },
     "airbnb": {
-      "last_checked": "2026-11-10T18:28:42Z",
-      "roles": {}
+      "last_checked": "2026-11-11T18:23:23Z",
+      "roles": {
+        "8376005": {
+          "title": "Communications Intern, France",
+          "location": "Paris, France",
+          "url": "https://careers.airbnb.com/positions/8376005?gh_jid=8376005",
+          "updated_at": "2026-11-11T10:34:30-05:00",
+          "first_seen": "2026-11-11T18:23:23Z"
+        },
+        "8375962": {
+          "title": "Communications Intern, Italy & SEE",
+          "location": "Milan, Italy",
+          "url": "https://careers.airbnb.com/positions/8375962?gh_jid=8375962",
+          "updated_at": "2026-11-11T10:34:26-05:00",
+          "first_seen": "2026-11-11T18:23:23Z"
+        },
+        "8376087": {
+          "title": "Market Associate Intern, Experiences",
+          "location": "Paris, France",
+          "url": "https://careers.airbnb.com/positions/8376087?gh_jid=8376087",
+          "updated_at": "2026-11-11T10:34:23-05:00",
+          "first_seen": "2026-11-11T18:23:23Z"
+        },
+        "8376124": {
+          "title": "Marketing & CRM Intern, Experiences",
+          "location": "Paris, France",
+          "url": "https://careers.airbnb.com/positions/8376124?gh_jid=8376124",
+          "updated_at": "2026-11-11T10:34:20-05:00",
+          "first_seen": "2026-11-11T18:23:23Z"
+        },
+        "8372325": {
+          "title": "Sales Development Intern, Services, France",
+          "location": "Paris, France",
+          "url": "https://careers.airbnb.com/positions/8372325?gh_jid=8372325",
+          "updated_at": "2026-11-11T10:34:18-05:00",
+          "first_seen": "2026-11-11T18:23:23Z"
+        },
+        "8372095": {
+          "title": "Sales Development Intern, Services, Italy",
+          "location": "Milan, Italy",
+          "url": "https://careers.airbnb.com/positions/8372095?gh_jid=8372095",
+          "updated_at": "2026-11-11T10:34:15-05:00",
+          "first_seen": "2026-11-11T18:23:23Z"
+        },
+        "8372424": {
+          "title": "Sales Development Intern, Services, Spain",
+          "location": "Barcelona, Spain",
+          "url": "https://careers.airbnb.com/positions/8372424?gh_jid=8372424",
+          "updated_at": "2026-11-11T10:34:12-05:00",
+          "first_seen": "2026-11-11T18:23:23Z"
+        }
+      }
     },
     "aquatic_capital_management": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {
         "8489186002": {
           "title": "Quantitative Researcher, Intern (Summer 2027) ",
@@ -792,7 +863,7 @@
       }
     },
     "datadog": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {
         "8181440": {
           "title": "Applied Science Intern",
@@ -839,11 +910,11 @@
       }
     },
     "flexport": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {}
     },
     "walleye_capital": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {
         "4676334006": {
           "title": "Equity Volatility Quant Researcher Intern (Summer 2027)",
@@ -855,11 +926,11 @@
       }
     },
     "binance_us": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {}
     },
     "blackrock": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {
         "/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465": {
           "title": "2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London",
@@ -948,15 +1019,30 @@
       }
     },
     "citi": {
-      "last_checked": "2026-11-10T18:28:42Z",
-      "roles": {}
+      "last_checked": "2026-11-11T18:23:23Z",
+      "roles": {
+        "/job/Sao-Paulo-Sao-Paulo-Brazil/Banking---Corporate-Banking--Internship--So-Paulo---Brazil--2027_261000110": {
+          "title": "Banking \u2013 Corporate Banking, Internship, S\u00e3o Paulo \u2013 Brazil, 2027",
+          "location": "Sao Paulo Sao Paulo Brazil",
+          "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Banking---Corporate-Banking--Internship--So-Paulo---Brazil--2027_261000110",
+          "updated_at": "Posted Today",
+          "first_seen": "2026-11-11T18:23:23Z"
+        },
+        "/job/Sao-Paulo-Sao-Paulo-Brazil/Estgio-Exclusivo-PCD---Banking---Corporate-Banking--Internship--So-Paulo---Brazil--2026_261008678": {
+          "title": "Est\u00e1gio Exclusivo PCD | Banking - Corporate Banking, Internship, S\u00e3o Paulo \u2013 Brazil, 2026",
+          "location": "Sao Paulo Sao Paulo Brazil",
+          "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sao-Paulo-Sao-Paulo-Brazil/Estgio-Exclusivo-PCD---Banking---Corporate-Banking--Internship--So-Paulo---Brazil--2026_261008678",
+          "updated_at": "Posted Today",
+          "first_seen": "2026-11-11T18:23:23Z"
+        }
+      }
     },
     "copart": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {}
     },
     "ellipsis_labs": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {
         "02136b22-35b1-4b3d-8bef-567c3380a849": {
           "title": "Software Engineer - 2027 Interns",
@@ -968,37 +1054,23 @@
       }
     },
     "fis": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {}
     },
     "mastercard": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {
         "/job/Dubai-United-Arab-Emirates/Global-Markets-Summer-Internship-2027---Product-Management-intern---Sales-Analyst-Intern---Dubai--UAE--UAE-Nationals-Preferred-_R-287598-2": {
           "title": "Global Markets Summer Internship 2027 - Product Management intern & Sales Analyst Intern - Dubai, UAE (UAE Nationals Preferred)",
           "location": "Dubai, United Arab Emirates",
           "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dubai-United-Arab-Emirates/Global-Markets-Summer-Internship-2027---Product-Management-intern---Sales-Analyst-Intern---Dubai--UAE--UAE-Nationals-Preferred-_R-287598-2",
-          "updated_at": "Posted Today",
+          "updated_at": "Posted Yesterday",
           "first_seen": "2026-11-10T18:28:42Z"
-        },
-        "/job/Santiago-Chile/Internship-Program--Sales--2027---Santiago--Chile_R-282264": {
-          "title": "Internship Program, Account Management, 2027 \u2013 Santiago, Chile",
-          "location": "Santiago, Chile",
-          "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Santiago-Chile/Internship-Program--Sales--2027---Santiago--Chile_R-282264",
-          "updated_at": "Posted Yesterday",
-          "first_seen": "2026-11-09T21:17:45Z"
-        },
-        "/job/Warsaw-Poland/Associate-Consultant-Intern--2027---Warsaw--Poland_R-287716-1": {
-          "title": "Associate Consultant Intern, 2027 \u2013 Warsaw, Poland",
-          "location": "Warsaw, Poland",
-          "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Warsaw-Poland/Associate-Consultant-Intern--2027---Warsaw--Poland_R-287716-1",
-          "updated_at": "Posted Yesterday",
-          "first_seen": "2026-11-09T21:17:45Z"
         }
       }
     },
     "notion": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {
         "3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c": {
           "title": "Software Engineer Intern (Summer 2027)",
@@ -1027,69 +1099,111 @@
           "url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947",
           "updated_at": "2026-11-06T18:41:27.009+00:00",
           "first_seen": "2026-11-07T16:44:53Z"
+        },
+        "ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9": {
+          "title": "Product Design Intern (Summer 2027)",
+          "location": "New York, New York",
+          "url": "https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9",
+          "updated_at": "2026-11-10T19:08:59.709+00:00",
+          "first_seen": "2026-11-11T18:23:23Z"
         }
       }
     },
     "nvidia": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {
-        "/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1": {
-          "title": "AI Operations Intern, AI Clouds - Summer 2027",
-          "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
+        "/job/Taiwan-Taipei/Technical-Program-Manager--Deep-Learning-Enterprise-Server-Software--RDSS-Intern-_JR2029595": {
+          "title": "Technical Program Manager, Deep Learning Enterprise Server Software (RDSS Intern)",
+          "location": "Taiwan, Taipei",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Technical-Program-Manager--Deep-Learning-Enterprise-Server-Software--RDSS-Intern-_JR2029595",
           "updated_at": "Posted Today",
-          "first_seen": "2026-11-10T18:28:42Z"
+          "first_seen": "2026-11-11T18:23:23Z"
         },
-        "/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644": {
-          "title": "Systems Research Intern, Observability \u2013 Summer 2027",
+        "/job/Japan-Tokyo/Developer-Technology-Engineer-Intern_JR2029575": {
+          "title": "Developer Technology Engineer Intern",
+          "location": "Japan, Tokyo",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Japan-Tokyo/Developer-Technology-Engineer-Intern_JR2029575",
+          "updated_at": "Posted Today",
+          "first_seen": "2026-11-11T18:23:23Z"
+        },
+        "/job/Switzerland-Zurich/GPU-Compiler-Intern_JR2029779": {
+          "title": "GPU Compiler Intern",
+          "location": "Switzerland, Zurich",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GPU-Compiler-Intern_JR2029779",
+          "updated_at": "Posted Today",
+          "first_seen": "2026-11-11T18:23:23Z"
+        },
+        "/job/France-Courbevoie/Go-to-Market-Strategy-Intern_JR2029657": {
+          "title": "Go-to-Market Strategy Intern",
+          "location": "2 Locations",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Courbevoie/Go-to-Market-Strategy-Intern_JR2029657",
+          "updated_at": "Posted Today",
+          "first_seen": "2026-11-11T18:23:23Z"
+        },
+        "/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780": {
+          "title": "System Software Engineering Intern - 2027",
+          "location": "Finland, Helsinki",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780",
+          "updated_at": "Posted Today",
+          "first_seen": "2026-11-11T18:23:23Z"
+        },
+        "/job/US-CA-Santa-Clara/Corporate-Development-MBA-Intern---Summer-2027_JR2029532-1": {
+          "title": "Corporate Development MBA Intern - Summer 2027",
           "location": "US, CA, Santa Clara",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Corporate-Development-MBA-Intern---Summer-2027_JR2029532-1",
           "updated_at": "Posted Yesterday",
-          "first_seen": "2026-11-10T18:28:42Z"
+          "first_seen": "2026-11-11T18:23:23Z"
+        },
+        "/job/US-CA-Santa-Clara/Financial-Analyst-Intern--Hardware-FP-A---Summer-2027_JR2029523-1": {
+          "title": "Financial Analyst Intern, Hardware FP&A - Summer 2027",
+          "location": "US, CA, Santa Clara",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Financial-Analyst-Intern--Hardware-FP-A---Summer-2027_JR2029523-1",
+          "updated_at": "Posted Yesterday",
+          "first_seen": "2026-11-11T18:23:23Z"
+        },
+        "/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541": {
+          "title": "Performance Engineering Intern, Platform Performance and Power -  Spring 2027",
+          "location": "US, CA, Santa Clara",
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541",
+          "updated_at": "Posted Yesterday",
+          "first_seen": "2026-11-11T18:23:23Z"
         }
       }
     },
     "phantom": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {}
     },
     "plaid": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {}
     },
     "polymarket": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {}
     },
     "rain": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {}
     },
     "raymond_james": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {
-        "/job/PA---Philadelphia---1650-Market-Street-Floor-53/XMLNAME-2027-Clark-Capital-Mentoring-Internship-Program_R-0012697": {
-          "title": "2027 Clark Capital Mentoring/Internship Program",
-          "location": "Unknown",
-          "url": "https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/PA---Philadelphia---1650-Market-Street-Floor-53/XMLNAME-2027-Clark-Capital-Mentoring-Internship-Program_R-0012697",
-          "updated_at": "Posted 4 Days Ago",
-          "first_seen": "2026-11-06T17:48:29Z"
-        },
         "/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-MBA-Internship--Assistant-to-the-Chair--Executive-Strategy-Program--St-Petersburg--FL-_R-0013364": {
           "title": "2027 MBA Internship: Assistant to the Chair, Executive Strategy Program (St. Petersburg, FL)",
           "location": "Unknown",
           "url": "https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-MBA-Internship--Assistant-to-the-Chair--Executive-Strategy-Program--St-Petersburg--FL-_R-0013364",
-          "updated_at": "Posted 13 Days Ago",
+          "updated_at": "Posted 14 Days Ago",
           "first_seen": "2026-10-27T16:12:36Z"
         }
       }
     },
     "replit": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {}
     },
     "visa": {
-      "last_checked": "2026-11-10T18:28:42Z",
+      "last_checked": "2026-11-11T18:23:23Z",
       "roles": {}
     }
   }
