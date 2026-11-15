@@ -1,9 +1,9 @@
 {
-  "last_checked": "2026-11-14T16:51:37Z",
-  "last_status": "fetch_error",
+  "last_checked": "2026-11-15T17:34:24Z",
+  "last_status": "success",
   "sources": {
     "anduril": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {
         "5261731007": {
           "title": "2027 Brand Marketing Intern",
@@ -299,7 +299,7 @@
       "roles": {}
     },
     "cloudflare": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {
         "8350166": {
           "title": "People Team Intern, HR Transformation (Winter 2027)",
@@ -360,7 +360,7 @@
       }
     },
     "coinbase": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {
         "8175363": {
           "title": "Acceleration Programs Intern",
@@ -533,23 +533,23 @@
       }
     },
     "disney": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {}
     },
     "galaxy_digital": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {}
     },
     "jane_street": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {}
     },
     "kalshi": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {}
     },
     "ramp": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {
         "b39ceb08-a0a7-4f8b-a760-2fb88e209956": {
           "title": "Applied Scientist Intern",
@@ -596,7 +596,7 @@
       }
     },
     "robinhood": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {
         "8357464": {
           "title": "Corporate Finance Intern (Summer 2027)",
@@ -622,11 +622,11 @@
       }
     },
     "securitize": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {}
     },
     "stripe": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {
         "8357739": {
           "title": "Controllership Intern",
@@ -778,7 +778,7 @@
       }
     },
     "worldquant": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {
         "4069460006": {
           "title": "Data Science Intern",
@@ -797,7 +797,7 @@
       }
     },
     "airbnb": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {
         "8380007": {
           "title": "Advanced Analytics Intern",
@@ -844,7 +844,7 @@
       }
     },
     "aquatic_capital_management": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {
         "8489186002": {
           "title": "Quantitative Researcher, Intern (Summer 2027) ",
@@ -863,7 +863,7 @@
       }
     },
     "datadog": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {
         "8181440": {
           "title": "Applied Science Intern",
@@ -910,11 +910,11 @@
       }
     },
     "flexport": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {}
     },
     "walleye_capital": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {
         "4676334006": {
           "title": "Equity Volatility Quant Researcher Intern (Summer 2027)",
@@ -926,11 +926,11 @@
       }
     },
     "binance_us": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {}
     },
     "blackrock": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {
         "/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468": {
           "title": "2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - New York",
@@ -963,30 +963,30 @@
       }
     },
     "citi": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {}
     },
     "copart": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {
         "/job/US-Tech-InfraOps-729/AV-Engineer-Intern_JR112638": {
           "title": "AV Engineer Intern",
           "location": "US Tech Infra/Ops 729",
           "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/US-Tech-InfraOps-729/AV-Engineer-Intern_JR112638",
-          "updated_at": "Posted 2 Days Ago",
+          "updated_at": "Posted 3 Days Ago",
           "first_seen": "2026-11-12T18:41:44Z"
         },
         "/job/Dallas-TX---Headquarters/Corp-Support-Intern_JR112251": {
           "title": "Corp Support Intern",
           "location": "Dallas, TX - Headquarters",
           "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Dallas-TX---Headquarters/Corp-Support-Intern_JR112251",
-          "updated_at": "Posted 2 Days Ago",
+          "updated_at": "Posted 3 Days Ago",
           "first_seen": "2026-11-12T18:41:44Z"
         }
       }
     },
     "ellipsis_labs": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {
         "02136b22-35b1-4b3d-8bef-567c3380a849": {
           "title": "Software Engineer - 2027 Interns",
@@ -998,15 +998,15 @@
       }
     },
     "fis": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {}
     },
     "mastercard": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {}
     },
     "notion": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {
         "3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c": {
           "title": "Software Engineer Intern (Summer 2027)",
@@ -1046,65 +1046,43 @@
       }
     },
     "nvidia": {
-      "last_checked": "2026-11-13T18:23:07Z",
-      "roles": {
-        "/job/China-Shanghai/Software-Engineering-Intern--NCCL---2027_JR2029488": {
-          "title": "Software Engineering Intern, NCCL - 2027",
-          "location": "2 Locations",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2027_JR2029488",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-11-13T18:23:07Z"
-        },
-        "/job/China-Shanghai/Software-Engineering-Intern--Neural-Reconstruction-and-Rendering---2027_JR2029925": {
-          "title": "Software Engineering Intern, Neural Reconstruction and Rendering - 2027",
-          "location": "China, Shanghai",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Neural-Reconstruction-and-Rendering---2027_JR2029925",
-          "updated_at": "Posted Today",
-          "first_seen": "2026-11-13T18:23:07Z"
-        },
-        "/job/Switzerland-Zurich/Math-Device-Extension-Libraries-Intern---2027_JR2028208": {
-          "title": "Math Device Extension Libraries Intern - 2027",
-          "location": "Switzerland, Zurich",
-          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Math-Device-Extension-Libraries-Intern---2027_JR2028208",
-          "updated_at": "Posted Yesterday",
-          "first_seen": "2026-11-13T18:23:07Z"
-        }
-      }
+      "last_checked": "2026-11-15T17:33:57Z",
+      "roles": {}
     },
     "phantom": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {}
     },
     "plaid": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {}
     },
     "polymarket": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {}
     },
     "rain": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {}
     },
     "raymond_james": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {
         "/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-MBA-Internship--Assistant-to-the-Chair--Executive-Strategy-Program--St-Petersburg--FL-_R-0013364": {
           "title": "2027 MBA Internship: Assistant to the Chair, Executive Strategy Program (St. Petersburg, FL)",
           "location": "Unknown",
           "url": "https://raymondjames.wd1.myworkdayjobs.com/en-US/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-MBA-Internship--Assistant-to-the-Chair--Executive-Strategy-Program--St-Petersburg--FL-_R-0013364",
-          "updated_at": "Posted 17 Days Ago",
+          "updated_at": "Posted 18 Days Ago",
           "first_seen": "2026-10-27T16:12:36Z"
         }
       }
     },
     "replit": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {}
     },
     "visa": {
-      "last_checked": "2026-11-14T16:51:09Z",
+      "last_checked": "2026-11-15T17:33:57Z",
       "roles": {}
     }
   }
