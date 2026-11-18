@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-17T19:38:44Z",
+  "last_checked": "2026-11-18T19:15:08Z",
   "last_status": "fetch_error",
   "sources": {
     "anduril": {
@@ -313,8 +313,15 @@
       "roles": {}
     },
     "cloudflare": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {
+        "8394342": {
+          "title": "AI & Automation Intern, Communications (Winter 2027)",
+          "location": "In-Office",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8394342?gh_jid=8394342",
+          "updated_at": "2026-11-17T15:02:04-05:00",
+          "first_seen": "2026-11-18T19:14:28Z"
+        },
         "8383449": {
           "title": "People Team Intern, EMEA Employment Compliance & Manager Enablement (Spring 2027)",
           "location": "In-Office",
@@ -333,7 +340,7 @@
           "title": "People Team: Software Engineer Intern (Winter 2027)",
           "location": "Hybrid",
           "url": "https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167",
-          "updated_at": "2026-11-13T16:47:45-05:00",
+          "updated_at": "2026-11-17T15:02:59-05:00",
           "first_seen": "2026-11-14T16:51:09Z"
         },
         "8274790": {
@@ -381,7 +388,7 @@
       }
     },
     "coinbase": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {
         "8175363": {
           "title": "Acceleration Programs Intern",
@@ -509,19 +516,19 @@
           "updated_at": "2026-09-10T13:03:58-04:00",
           "first_seen": "2026-09-11T14:51:07Z"
         },
-        "8168315": {
-          "title": "Software Engineer Intern",
-          "location": "Hybrid - San Francisco, CA",
-          "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
-          "updated_at": "2026-10-20T00:41:39-04:00",
-          "first_seen": "2026-09-09T15:01:12Z"
-        },
         "8175873": {
           "title": "Software Engineer Intern",
           "location": "Hybrid - Singapore",
           "url": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873",
           "updated_at": "2026-11-13T18:24:47-05:00",
           "first_seen": "2026-10-22T15:47:26Z"
+        },
+        "8168315": {
+          "title": "Software Engineer Intern",
+          "location": "Hybrid - San Francisco, CA",
+          "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+          "updated_at": "2026-10-20T00:41:39-04:00",
+          "first_seen": "2026-09-09T15:01:12Z"
         },
         "8376084": {
           "title": "Strategic Sourcing Intern",
@@ -547,23 +554,23 @@
       }
     },
     "disney": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {}
     },
     "galaxy_digital": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {}
     },
     "jane_street": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {}
     },
     "kalshi": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {}
     },
     "ramp": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {
         "b39ceb08-a0a7-4f8b-a760-2fb88e209956": {
           "title": "Applied Scientist Intern",
@@ -610,7 +617,7 @@
       }
     },
     "robinhood": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {
         "8357464": {
           "title": "Corporate Finance Intern (Summer 2027)",
@@ -636,19 +643,12 @@
       }
     },
     "securitize": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {}
     },
     "stripe": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {
-        "8357739": {
-          "title": "Controllership Intern",
-          "location": "Seattle, WA",
-          "url": "https://stripe.com/jobs/search?gh_jid=8357739",
-          "updated_at": "2026-11-06T14:05:05-05:00",
-          "first_seen": "2026-11-07T16:44:53Z"
-        },
         "8194287": {
           "title": "Data Analyst, Intern",
           "location": "Toronto",
@@ -740,6 +740,13 @@
           "updated_at": "2026-11-05T21:23:55-05:00",
           "first_seen": "2026-11-06T17:48:29Z"
         },
+        "8130867": {
+          "title": "Software Engineer, Intern",
+          "location": "London",
+          "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+          "updated_at": "2026-10-29T10:42:09-04:00",
+          "first_seen": "2026-09-01T15:23:21Z"
+        },
         "8031833": {
           "title": "Software Engineer, Intern",
           "location": "Bengaluru",
@@ -753,13 +760,6 @@
           "url": "https://stripe.com/jobs/search?gh_jid=8130883",
           "updated_at": "2026-10-29T10:42:09-04:00",
           "first_seen": "2026-09-07T16:17:14Z"
-        },
-        "8130867": {
-          "title": "Software Engineer, Intern",
-          "location": "London",
-          "url": "https://stripe.com/jobs/search?gh_jid=8130867",
-          "updated_at": "2026-10-29T10:42:09-04:00",
-          "first_seen": "2026-09-01T15:23:21Z"
         },
         "8130807": {
           "title": "Software Engineer, Intern ",
@@ -792,7 +792,7 @@
       }
     },
     "worldquant": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {
         "4069460006": {
           "title": "Data Science Intern",
@@ -811,14 +811,14 @@
       }
     },
     "airbnb": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {
-        "8380007": {
-          "title": "Advanced Analytics Intern",
-          "location": "United States",
-          "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007",
-          "updated_at": "2026-11-11T16:35:28-05:00",
-          "first_seen": "2026-11-12T18:41:44Z"
+        "8376045": {
+          "title": "Brand Marketing Intern, France",
+          "location": "Paris, France",
+          "url": "https://careers.airbnb.com/positions/8376045?gh_jid=8376045",
+          "updated_at": "2026-11-18T12:41:29-05:00",
+          "first_seen": "2026-11-18T19:14:28Z"
         },
         "8376005": {
           "title": "Communications Intern, France",
@@ -854,11 +854,18 @@
           "url": "https://careers.airbnb.com/positions/8372424?gh_jid=8372424",
           "updated_at": "2026-11-11T10:34:12-05:00",
           "first_seen": "2026-11-11T18:23:23Z"
+        },
+        "8360478": {
+          "title": "Software Engineering Intern (BS/MS)",
+          "location": "San Francisco, California",
+          "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+          "updated_at": "2026-11-18T00:00:14-05:00",
+          "first_seen": "2026-11-18T19:14:28Z"
         }
       }
     },
     "aquatic_capital_management": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {
         "8489186002": {
           "title": "Quantitative Researcher, Intern (Summer 2027) ",
@@ -877,7 +884,7 @@
       }
     },
     "datadog": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {
         "8181440": {
           "title": "Applied Science Intern",
@@ -917,11 +924,11 @@
       }
     },
     "flexport": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {}
     },
     "walleye_capital": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {
         "4676334006": {
           "title": "Equity Volatility Quant Researcher Intern (Summer 2027)",
@@ -933,7 +940,7 @@
       }
     },
     "binance_us": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {}
     },
     "blackrock": {
@@ -993,7 +1000,7 @@
       }
     },
     "ellipsis_labs": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {
         "02136b22-35b1-4b3d-8bef-567c3380a849": {
           "title": "Software Engineer - 2027 Interns",
@@ -1013,7 +1020,7 @@
       "roles": {}
     },
     "notion": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {
         "3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c": {
           "title": "Software Engineer Intern (Summer 2027)",
@@ -1057,19 +1064,19 @@
       "roles": {}
     },
     "phantom": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {}
     },
     "plaid": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {}
     },
     "polymarket": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {}
     },
     "rain": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {}
     },
     "raymond_james": {
@@ -1085,7 +1092,7 @@
       }
     },
     "replit": {
-      "last_checked": "2026-11-17T19:38:04Z",
+      "last_checked": "2026-11-18T19:14:28Z",
       "roles": {}
     },
     "visa": {
