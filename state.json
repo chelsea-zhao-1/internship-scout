@@ -1,9 +1,9 @@
 {
-  "last_checked": "2026-11-25T20:23:20Z",
+  "last_checked": "2026-11-26T19:59:21Z",
   "last_status": "fetch_error",
   "sources": {
     "anduril": {
-      "last_checked": "2026-11-24T20:59:21Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {
         "5261731007": {
           "title": "2027 Brand Marketing Intern",
@@ -271,13 +271,6 @@
           "updated_at": "2026-11-16T21:23:01-05:00",
           "first_seen": "2026-10-06T17:02:43Z"
         },
-        "5265127007": {
-          "title": "Winter 2027 Research Engineer Co-op",
-          "location": "Santa Ana, California, United States",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
-          "updated_at": "2026-11-16T21:23:01-05:00",
-          "first_seen": "2026-10-15T15:29:58Z"
-        },
         "5236563007": {
           "title": "Winter 2027 Software Engineer Co-op",
           "location": "Quincy, Massachusetts, United States",
@@ -320,15 +313,8 @@
       "roles": {}
     },
     "cloudflare": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {
-        "8392302": {
-          "title": "People Operations Intern (2026/2027 Batch Only)",
-          "location": "In-Office",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/8392302?gh_jid=8392302",
-          "updated_at": "2026-11-23T09:29:54-05:00",
-          "first_seen": "2026-11-23T22:27:10Z"
-        },
         "8383449": {
           "title": "People Team Intern, EMEA Employment Compliance & Manager Enablement (Spring 2027)",
           "location": "In-Office",
@@ -381,7 +367,7 @@
       }
     },
     "coinbase": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {
         "8175363": {
           "title": "Acceleration Programs Intern",
@@ -485,7 +471,7 @@
           "title": "Policy Intern",
           "location": "Hybrid - New York, NY",
           "url": "https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556",
-          "updated_at": "2026-10-30T10:39:42-04:00",
+          "updated_at": "2026-11-26T10:17:06-05:00",
           "first_seen": "2026-10-01T17:16:38Z"
         },
         "8175339": {
@@ -506,7 +492,7 @@
           "title": "Security Engineer Intern",
           "location": "Hybrid - New York, NY",
           "url": "https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869",
-          "updated_at": "2026-11-25T15:22:40-05:00",
+          "updated_at": "2026-11-25T16:43:19-05:00",
           "first_seen": "2026-11-25T20:22:38Z"
         },
         "8168315": {
@@ -547,23 +533,23 @@
       }
     },
     "disney": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {}
     },
     "galaxy_digital": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {}
     },
     "jane_street": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {}
     },
     "kalshi": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {}
     },
     "ramp": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {
         "b39ceb08-a0a7-4f8b-a760-2fb88e209956": {
           "title": "Applied Scientist Intern",
@@ -610,7 +596,7 @@
       }
     },
     "robinhood": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {
         "8357464": {
           "title": "Corporate Finance Intern (Summer 2027)",
@@ -636,7 +622,7 @@
       }
     },
     "securitize": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {
         "4514629009": {
           "title": "Product Intern",
@@ -648,20 +634,20 @@
       }
     },
     "stripe": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {
-        "8194291": {
-          "title": "Data Analyst, Intern",
-          "location": "New York, Seattle, South San Francisco HQ",
-          "url": "https://stripe.com/jobs/search?gh_jid=8194291",
-          "updated_at": "2026-11-19T12:12:26-05:00",
-          "first_seen": "2026-10-01T17:16:38Z"
-        },
         "8194287": {
           "title": "Data Analyst, Intern",
           "location": "Toronto",
           "url": "https://stripe.com/jobs/search?gh_jid=8194287",
           "updated_at": "2026-11-19T12:10:05-05:00",
+          "first_seen": "2026-10-01T17:16:38Z"
+        },
+        "8194291": {
+          "title": "Data Analyst, Intern",
+          "location": "New York, Seattle, South San Francisco HQ",
+          "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+          "updated_at": "2026-11-19T12:12:26-05:00",
           "first_seen": "2026-10-01T17:16:38Z"
         },
         "8186442": {
@@ -699,13 +685,6 @@
           "updated_at": "2026-11-19T12:10:19-05:00",
           "first_seen": "2026-10-30T16:56:44Z"
         },
-        "8194283": {
-          "title": "PhD Data Scientist, Intern",
-          "location": "New York, Seattle, South San Francisco HQ",
-          "url": "https://stripe.com/jobs/search?gh_jid=8194283",
-          "updated_at": "2026-11-19T12:12:26-05:00",
-          "first_seen": "2026-11-11T18:23:23Z"
-        },
         "8194285": {
           "title": "PhD Data Scientist, Intern",
           "location": "Toronto",
@@ -713,12 +692,12 @@
           "updated_at": "2026-11-19T12:10:05-05:00",
           "first_seen": "2026-10-01T17:16:38Z"
         },
-        "8328664": {
-          "title": "PhD Machine Learning Engineer, Intern",
-          "location": "Toronto",
-          "url": "https://stripe.com/jobs/search?gh_jid=8328664",
-          "updated_at": "2026-11-19T12:10:19-05:00",
-          "first_seen": "2026-10-30T16:56:44Z"
+        "8194283": {
+          "title": "PhD Data Scientist, Intern",
+          "location": "New York, Seattle, South San Francisco HQ",
+          "url": "https://stripe.com/jobs/search?gh_jid=8194283",
+          "updated_at": "2026-11-19T12:12:26-05:00",
+          "first_seen": "2026-11-11T18:23:23Z"
         },
         "8328662": {
           "title": "PhD Machine Learning Engineer, Intern",
@@ -727,12 +706,12 @@
           "updated_at": "2026-11-19T12:12:30-05:00",
           "first_seen": "2026-10-30T16:56:44Z"
         },
-        "8332683": {
-          "title": "Product Design Intern",
+        "8328664": {
+          "title": "PhD Machine Learning Engineer, Intern",
           "location": "Toronto",
-          "url": "https://stripe.com/jobs/search?gh_jid=8332683",
-          "updated_at": "2026-11-19T12:10:20-05:00",
-          "first_seen": "2026-11-06T17:48:29Z"
+          "url": "https://stripe.com/jobs/search?gh_jid=8328664",
+          "updated_at": "2026-11-19T12:10:19-05:00",
+          "first_seen": "2026-10-30T16:56:44Z"
         },
         "8332681": {
           "title": "Product Design Intern",
@@ -741,12 +720,12 @@
           "updated_at": "2026-11-23T16:33:57-05:00",
           "first_seen": "2026-11-06T17:48:29Z"
         },
-        "8130883": {
-          "title": "Software Engineer, Intern",
-          "location": "Singapore",
-          "url": "https://stripe.com/jobs/search?gh_jid=8130883",
-          "updated_at": "2026-11-19T12:09:59-05:00",
-          "first_seen": "2026-09-07T16:17:14Z"
+        "8332683": {
+          "title": "Product Design Intern",
+          "location": "Toronto",
+          "url": "https://stripe.com/jobs/search?gh_jid=8332683",
+          "updated_at": "2026-11-19T12:10:20-05:00",
+          "first_seen": "2026-11-06T17:48:29Z"
         },
         "8130867": {
           "title": "Software Engineer, Intern",
@@ -755,10 +734,24 @@
           "updated_at": "2026-11-19T12:09:59-05:00",
           "first_seen": "2026-09-01T15:23:21Z"
         },
+        "8130883": {
+          "title": "Software Engineer, Intern",
+          "location": "Singapore",
+          "url": "https://stripe.com/jobs/search?gh_jid=8130883",
+          "updated_at": "2026-11-19T12:09:59-05:00",
+          "first_seen": "2026-09-07T16:17:14Z"
+        },
         "8130807": {
           "title": "Software Engineer, Intern ",
           "location": "Bucharest",
           "url": "https://stripe.com/jobs/search?gh_jid=8130807",
+          "updated_at": "2026-11-19T12:09:59-05:00",
+          "first_seen": "2026-09-01T15:23:21Z"
+        },
+        "8130805": {
+          "title": "Software Engineer, Intern (Summer)",
+          "location": "Toronto",
+          "url": "https://stripe.com/jobs/search?gh_jid=8130805",
           "updated_at": "2026-11-19T12:09:59-05:00",
           "first_seen": "2026-09-01T15:23:21Z"
         },
@@ -767,13 +760,6 @@
           "location": "San Francisco, Seattle, New York City",
           "url": "https://stripe.com/jobs/search?gh_jid=8128745",
           "updated_at": "2026-11-19T12:12:23-05:00",
-          "first_seen": "2026-09-01T15:23:21Z"
-        },
-        "8130805": {
-          "title": "Software Engineer, Intern (Summer)",
-          "location": "Toronto",
-          "url": "https://stripe.com/jobs/search?gh_jid=8130805",
-          "updated_at": "2026-11-19T12:09:59-05:00",
           "first_seen": "2026-09-01T15:23:21Z"
         },
         "8097801": {
@@ -786,7 +772,7 @@
       }
     },
     "worldquant": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {
         "4069460006": {
           "title": "Data Science Intern",
@@ -805,7 +791,7 @@
       }
     },
     "airbnb": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {
         "8376045": {
           "title": "Brand Marketing Intern, France",
@@ -866,7 +852,7 @@
       }
     },
     "aquatic_capital_management": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {
         "8489186002": {
           "title": "Quantitative Researcher, Intern (Summer 2027) ",
@@ -885,7 +871,7 @@
       }
     },
     "datadog": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {
         "8181440": {
           "title": "Applied Science Intern",
@@ -908,28 +894,28 @@
           "updated_at": "2026-11-09T08:32:01-05:00",
           "first_seen": "2026-09-16T15:20:09Z"
         },
-        "8114161": {
-          "title": "Software Engineering Intern",
-          "location": "Madrid, Spain",
-          "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
-          "updated_at": "2026-11-05T12:12:56-05:00",
-          "first_seen": "2026-09-08T14:54:08Z"
-        },
         "8114186": {
           "title": "Software Engineering Intern",
           "location": "Paris, France",
           "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
           "updated_at": "2026-11-05T12:12:56-05:00",
           "first_seen": "2026-09-08T14:54:08Z"
+        },
+        "8114161": {
+          "title": "Software Engineering Intern",
+          "location": "Madrid, Spain",
+          "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+          "updated_at": "2026-11-05T12:12:56-05:00",
+          "first_seen": "2026-09-08T14:54:08Z"
         }
       }
     },
     "flexport": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {}
     },
     "walleye_capital": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {
         "4676334006": {
           "title": "Equity Volatility Quant Researcher Intern (Summer 2027)",
@@ -941,7 +927,7 @@
       }
     },
     "binance_us": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {}
     },
     "blackrock": {
@@ -978,7 +964,7 @@
       }
     },
     "citi": {
-      "last_checked": "2026-11-15T17:33:57Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {}
     },
     "copart": {
@@ -986,7 +972,7 @@
       "roles": {}
     },
     "ellipsis_labs": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {
         "02136b22-35b1-4b3d-8bef-567c3380a849": {
           "title": "Software Engineer - 2027 Interns",
@@ -1006,7 +992,7 @@
       "roles": {}
     },
     "notion": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {
         "3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c": {
           "title": "Software Engineer Intern (Summer 2027)",
@@ -1050,19 +1036,19 @@
       "roles": {}
     },
     "phantom": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {}
     },
     "plaid": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {}
     },
     "polymarket": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {}
     },
     "rain": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {}
     },
     "raymond_james": {
@@ -1078,7 +1064,7 @@
       }
     },
     "replit": {
-      "last_checked": "2026-11-25T20:22:38Z",
+      "last_checked": "2026-11-26T19:59:11Z",
       "roles": {}
     },
     "visa": {
